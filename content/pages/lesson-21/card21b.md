@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Lesson 21
+parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Card 21B
+type: CourseSection
 uid: 8ef38c07-90eb-699e-befa-b491aee98b55
 ---
 

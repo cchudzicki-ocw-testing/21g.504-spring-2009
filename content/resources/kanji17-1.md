@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Lesson 18
+parent_type: CourseSection
 resourcetype: Image
 title: Kanji17
+type: OCWImage
 uid: 7015f8a2-a87b-eb41-a952-27ee9360d9ec
 ---

@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Lesson 18
+parent_type: CourseSection
 resourcetype: Image
 title: audio
+type: OCWImage
 uid: 6462cdf9-35c4-cd91-7d12-95ce39480f6d
 ---

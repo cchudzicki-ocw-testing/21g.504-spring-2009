@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Lesson 17
+parent_type: CourseSection
 resourcetype: Image
 title: Kanji 15
+type: OCWImage
 uid: 7e3abf1e-6ef2-7804-98d5-d5792cd2980f
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Lesson 18
+parent_type: CourseSection
 resourcetype: Image
 title: pine
+type: OCWImage
 uid: 0bef4dfa-2c70-7268-b8f0-3cec500325a7
 ---

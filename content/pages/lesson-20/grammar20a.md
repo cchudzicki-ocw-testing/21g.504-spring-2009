@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Lesson 20
+parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Grammar 20A
+type: CourseSection
 uid: 06c1d8af-6228-699d-a7d5-f60bd4748802
 ---
 

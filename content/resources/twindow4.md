@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Lesson 19
+parent_type: CourseSection
 resourcetype: Image
 title: tWindow4
+type: OCWImage
 uid: 91275212-1bea-2f30-0556-777f0b608b85
 ---

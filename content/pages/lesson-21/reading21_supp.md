@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Lesson 21
+parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Supplemental Reading 21
+type: CourseSection
 uid: 85d9ab18-e131-cfc0-d019-e9a4353afeb4
 ---
 

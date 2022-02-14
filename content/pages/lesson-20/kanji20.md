@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Lesson 20
+parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Kanji 20
+type: CourseSection
 uid: dacef7f6-b68b-ee65-0c6a-736e6f03ed8d
 ---
 

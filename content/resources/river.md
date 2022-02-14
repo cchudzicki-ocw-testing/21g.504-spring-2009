@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Lesson 18
+parent_type: CourseSection
 resourcetype: Image
 title: river
+type: OCWImage
 uid: f9783049-cf2e-c6ec-0557-d6145762f19c
 ---

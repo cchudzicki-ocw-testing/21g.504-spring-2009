@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Exploring Japanese Culture
+type: CourseSection
 uid: e3b0244d-c477-d2d2-1e29-5edcac703d9f
 ---
 

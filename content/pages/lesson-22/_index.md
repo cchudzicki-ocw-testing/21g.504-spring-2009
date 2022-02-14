@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Lesson 22
+type: CourseSection
 uid: ce845a14-e942-541d-7d56-a411e07e0465
 ---
 

@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Lesson 17
+parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Grammar 17B Section I Answers
+type: CourseSection
 uid: ac98471a-f322-094b-20a3-d2455a14ccb7
 ---
 
