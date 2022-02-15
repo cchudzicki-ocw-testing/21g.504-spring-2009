@@ -5,7 +5,6 @@ parent_title: Lesson 19
 parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19A
-type: CourseSection
 uid: cb4bfe19-dc7c-3f84-7d18-36e4c07a3338
 ---
 

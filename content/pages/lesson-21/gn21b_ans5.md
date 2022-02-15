@@ -5,7 +5,6 @@ parent_title: Lesson 21
 parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21B Section V Answers
-type: CourseSection
 uid: 0aed9532-d4b4-4276-a474-b98fdfabde93
 ---
 

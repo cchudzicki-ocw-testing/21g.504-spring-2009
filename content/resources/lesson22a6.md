@@ -8,6 +8,5 @@ parent_title: Lesson 22
 parent_type: CourseSection
 resourcetype: Other
 title: Lesson22A6
-type: OCWFile
 uid: 8296feb6-f37c-b6c0-2152-54fbda257271
 ---

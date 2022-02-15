@@ -5,7 +5,6 @@ parent_title: Lesson 22
 parent_type: CourseSection
 parent_uid: ce845a14-e942-541d-7d56-a411e07e0465
 title: Reading 22B
-type: CourseSection
 uid: edc92725-3fe5-ae7f-afa9-8c3d4e74ccee
 ---
 

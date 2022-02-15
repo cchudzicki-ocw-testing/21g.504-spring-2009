@@ -12,6 +12,5 @@ parent_title: Lesson 21
 parent_type: CourseSection
 resourcetype: Image
 title: cardPicsThumb
-type: OCWImage
 uid: 90de4452-5ebf-2df2-b25a-f0251a7e942d
 ---

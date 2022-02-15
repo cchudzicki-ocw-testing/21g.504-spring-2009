@@ -13,6 +13,5 @@ parent_title: Lesson 20
 parent_type: CourseSection
 resourcetype: Image
 title: audio
-type: OCWImage
 uid: 8797a26b-dadb-9872-21ad-08f16f54fa14
 ---

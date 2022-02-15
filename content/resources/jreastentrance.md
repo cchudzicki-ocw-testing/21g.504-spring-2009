@@ -12,6 +12,5 @@ parent_title: Lesson 19
 parent_type: CourseSection
 resourcetype: Image
 title: jrEastEntrance
-type: OCWImage
 uid: 4bee233e-0307-3239-1702-03ddb0a435e0
 ---

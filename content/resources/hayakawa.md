@@ -12,6 +12,5 @@ parent_title: Lesson 18
 parent_type: CourseSection
 resourcetype: Image
 title: hayakawa
-type: OCWImage
 uid: 674f2585-2f72-f06f-fd90-50e0627e5ec6
 ---

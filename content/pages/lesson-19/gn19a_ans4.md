@@ -5,7 +5,6 @@ parent_title: Lesson 19
 parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19A Section IV Answers
-type: CourseSection
 uid: d1b48d93-bcad-02e5-e56d-acd5ba55d533
 ---
 

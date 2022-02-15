@@ -5,7 +5,6 @@ parent_title: Lesson 19
 parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Reading 19A
-type: CourseSection
 uid: 8ca5a323-383a-f162-33bd-af9b2b7683ac
 ---
 

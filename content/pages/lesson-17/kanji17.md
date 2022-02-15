@@ -5,7 +5,6 @@ parent_title: Lesson 17
 parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Kanji 17
-type: CourseSection
 uid: 1da55645-f396-191e-d691-c1ca0a3776fc
 ---
 

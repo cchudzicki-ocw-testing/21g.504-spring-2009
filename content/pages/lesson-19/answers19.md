@@ -5,7 +5,6 @@ parent_title: Lesson 19
 parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Practice Quiz 19 Answers
-type: CourseSection
 uid: 08ee4788-b4e4-f024-7fdc-82ca83881eb9
 ---
 

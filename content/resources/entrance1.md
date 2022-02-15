@@ -12,6 +12,5 @@ parent_title: Lesson 17
 parent_type: CourseSection
 resourcetype: Image
 title: entrance1
-type: OCWImage
 uid: 6d661a36-5e4c-d995-3c08-c0420e7ac9a2
 ---

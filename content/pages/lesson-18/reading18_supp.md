@@ -5,7 +5,6 @@ parent_title: Lesson 18
 parent_type: CourseSection
 parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 title: Supplemental Reading 18
-type: CourseSection
 uid: 2f0cddb5-f476-24aa-5d77-a3137e559fde
 ---
 

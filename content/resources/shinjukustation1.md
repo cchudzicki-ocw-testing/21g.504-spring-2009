@@ -12,6 +12,5 @@ parent_title: Lesson 19
 parent_type: CourseSection
 resourcetype: Image
 title: shinjukuStation1
-type: OCWImage
 uid: 31b9c6fc-a8fd-8584-ed07-6782ce345724
 ---

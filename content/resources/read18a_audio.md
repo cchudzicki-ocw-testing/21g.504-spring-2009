@@ -8,6 +8,5 @@ parent_title: Lesson 17
 parent_type: CourseSection
 resourcetype: Other
 title: Read18A_audio
-type: OCWFile
 uid: b247723f-bf8d-d971-ea6e-2153f726711b
 ---

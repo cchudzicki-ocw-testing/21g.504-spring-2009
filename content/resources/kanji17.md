@@ -8,6 +8,5 @@ parent_title: Lesson 18
 parent_type: CourseSection
 resourcetype: Other
 title: Kanji17
-type: OCWFile
 uid: c20f0933-7f3f-a1c1-edaf-26590beef9b6
 ---

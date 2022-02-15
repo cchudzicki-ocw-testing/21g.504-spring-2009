@@ -5,7 +5,6 @@ parent_title: Related Resources
 parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Current Events in Japan
-type: CourseSection
 uid: b41dd897-5294-dbf3-e7f8-aeceda4c608a
 ---
 

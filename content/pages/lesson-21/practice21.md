@@ -5,7 +5,6 @@ parent_title: Lesson 21
 parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Practice Quiz 21
-type: CourseSection
 uid: ffd04e79-663d-bf51-b206-7d92a3d1f51d
 ---
 

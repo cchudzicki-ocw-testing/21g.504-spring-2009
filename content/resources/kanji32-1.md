@@ -12,6 +12,5 @@ parent_title: Lesson 21
 parent_type: CourseSection
 resourcetype: Image
 title: Kanji32
-type: OCWImage
 uid: a4328107-bbb7-89d5-1eb6-a7f919644674
 ---

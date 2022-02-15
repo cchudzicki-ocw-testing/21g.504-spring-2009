@@ -5,7 +5,6 @@ parent_title: Related Resources
 parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Literature
-type: CourseSection
 uid: 736b1727-5dfd-18ec-0557-69a21e21ed46
 ---
 

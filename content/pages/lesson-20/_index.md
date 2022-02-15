@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Lesson 20
-type: CourseSection
 uid: 1658c715-de8b-1752-598d-a7d8228f0109
 ---
 

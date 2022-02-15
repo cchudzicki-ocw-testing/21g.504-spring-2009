@@ -12,6 +12,5 @@ parent_title: Lesson 18
 parent_type: CourseSection
 resourcetype: Image
 title: cherry
-type: OCWImage
 uid: 87ede862-0e64-a3b0-4bf9-8ec9b54aaa81
 ---

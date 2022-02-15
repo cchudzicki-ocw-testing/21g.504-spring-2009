@@ -5,7 +5,6 @@ parent_title: Lesson 18
 parent_type: CourseSection
 parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 title: Reading 18A
-type: CourseSection
 uid: b5d9aa6e-99d3-8b43-d2cb-6f06bab6b55e
 ---
 

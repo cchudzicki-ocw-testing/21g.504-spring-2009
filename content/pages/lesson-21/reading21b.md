@@ -5,7 +5,6 @@ parent_title: Lesson 21
 parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Reading 21B
-type: CourseSection
 uid: e7ad8649-15ac-b478-cde5-661811c38420
 ---
 

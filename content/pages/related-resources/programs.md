@@ -5,7 +5,6 @@ parent_title: Related Resources
 parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Study Abroad Programs
-type: CourseSection
 uid: 53ccdcaa-62c4-5b5a-389e-0d8c9d607147
 ---
 

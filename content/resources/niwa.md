@@ -12,6 +12,5 @@ parent_title: Lesson 17
 parent_type: CourseSection
 resourcetype: Image
 title: niwa
-type: OCWImage
 uid: b5dde481-737a-a663-4e56-e5b696efd0a4
 ---

@@ -5,7 +5,6 @@ parent_title: Lesson 21
 parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Kanji 21
-type: CourseSection
 uid: fe457f3c-6c70-a245-5489-9325504e7170
 ---
 

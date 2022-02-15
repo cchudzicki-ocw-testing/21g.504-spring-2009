@@ -8,6 +8,5 @@ parent_title: Lesson 18
 parent_type: CourseSection
 resourcetype: Other
 title: Lesson18A15
-type: OCWFile
 uid: 6fb67a7a-001e-55ea-6ca6-6b0b2dc1cfef
 ---

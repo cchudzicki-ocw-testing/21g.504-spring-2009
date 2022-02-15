@@ -5,7 +5,6 @@ parent_title: Lesson 21
 parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21B
-type: CourseSection
 uid: f332dbd0-747e-510a-9734-5f115d7dcccb
 ---
 

@@ -12,6 +12,5 @@ parent_title: Lesson 17
 parent_type: CourseSection
 resourcetype: Image
 title: corgi
-type: OCWImage
 uid: 9e76fbaf-25d2-7100-588b-3c6b6a83131f
 ---

@@ -5,7 +5,6 @@ parent_title: Lesson 20
 parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Reading 20B
-type: CourseSection
 uid: f88698f7-cb43-399e-c0dd-512bf5f40f2a
 ---
 

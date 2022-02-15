@@ -12,6 +12,5 @@ parent_title: Lesson 17
 parent_type: CourseSection
 resourcetype: Image
 title: room4
-type: OCWImage
 uid: 8cdd1bb0-da18-1354-4b26-b85a9c46ef7f
 ---
