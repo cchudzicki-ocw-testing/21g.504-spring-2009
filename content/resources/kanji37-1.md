@@ -4,6 +4,7 @@ description: QuickTime movie of a kanji character being painted with a brush.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-504-japanese-iv-spring-2009/a36876bf226ee2324cce4e6a46ab22d8_Kanji37.mov
 file_type: video/quicktime
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Lesson 22
 parent_type: CourseSection
 resourcetype: Other

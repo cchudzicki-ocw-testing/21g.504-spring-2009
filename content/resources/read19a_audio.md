@@ -4,6 +4,7 @@ description: Archive containing audio recordings demonstrating Japanese pronunci
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-504-japanese-iv-spring-2009/d0f90a8edfed2dfa7b8a1a517599f462_Read19A_audio.zip
 file_type: application/zip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Lesson 17
 parent_type: CourseSection
 resourcetype: Other
