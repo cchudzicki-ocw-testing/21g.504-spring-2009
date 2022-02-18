@@ -69,6 +69,6 @@ Choose possible combinations. There may be zero or more than one possible combin
     3.  あとで、電話を入れて
     4.  のは、十時着のとっきゅうでした
 
-\[Practice Quiz 19 | [Practice Quiz 19 Answers]({{< baseurl >}}/pages/lesson-19/answers19)\]
+\[Practice Quiz 19 | {{< resource_link 08ee4788-b4e4-f024-7fdc-82ca83881eb9 "Practice Quiz 19 Answers" >}}\]
 
-\[[Lesson 19 Home]({{< baseurl >}}/pages/lesson-19)\]
+\[{{< resource_link 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25 "Lesson 19 Home" >}}\]

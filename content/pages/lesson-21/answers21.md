@@ -288,6 +288,6 @@ uid: 177ddadb-c1a9-edfa-bf29-febc52ac067e
   
  
 
-\[[Practice Quiz 21]({{< baseurl >}}/pages/lesson-21/practice21) | Practice Quiz 21 Answers\]
+\[{{< resource_link ffd04e79-663d-bf51-b206-7d92a3d1f51d "Practice Quiz 21" >}} | Practice Quiz 21 Answers\]
 
-\[[Lesson 21 Home]({{< baseurl >}}/pages/lesson-21/answers21)\]
+\[{{< resource_link 177ddadb-c1a9-edfa-bf29-febc52ac067e "Lesson 21 Home" >}}\]

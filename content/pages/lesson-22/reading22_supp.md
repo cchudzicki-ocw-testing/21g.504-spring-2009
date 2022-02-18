@@ -151,6 +151,6 @@ however, but, on the other hand
 
 {{< tableclose >}}
 
-\[[Reading 22A]({{< baseurl >}}/pages/lesson-22/reading22a) | [Reading 22B]({{< baseurl >}}/pages/lesson-22/reading22b) | Supplemental\]
+\[{{< resource_link 15a28556-f823-966d-5892-5bacd3fbb8ff "Reading 22A" >}} | {{< resource_link edc92725-3fe5-ae7f-afa9-8c3d4e74ccee "Reading 22B" >}} | Supplemental\]
 
-\[[Lesson 22 Home]({{< baseurl >}}/pages/lesson-22)\]
+\[{{< resource_link ce845a14-e942-541d-7d56-a411e07e0465 "Lesson 22 Home" >}}\]

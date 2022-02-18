@@ -50,6 +50,6 @@ Choose possible combinations. There may be zero or more than one possible combin
     3.  何枚も買ってきて
     4.  しょうごからざだん会に出た
 
-\[Practice Quiz 18 | [Practice Quiz 18 Answers]({{< baseurl >}}/pages/lesson-18/answers18)\]
+\[Practice Quiz 18 | {{< resource_link b5bf2c31-2feb-bb55-09bc-8161e2f3c51b "Practice Quiz 18 Answers" >}}\]
 
-\[[Lesson 18 Home]({{< baseurl >}}/pages/lesson-18)\]
+\[{{< resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" >}}\]

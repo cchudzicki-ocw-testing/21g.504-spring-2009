@@ -78,6 +78,6 @@ Choose possible combinations. There may be zero or more than one possible combin
     3.  色々なお寺を回った
     4.  ご両親がしょうちしてくれない
 
-\[Practice Quiz 21 | [Practice Quiz 21 Answers]({{< baseurl >}}/pages/lesson-21/answers21)\]
+\[Practice Quiz 21 | {{< resource_link 177ddadb-c1a9-edfa-bf29-febc52ac067e "Practice Quiz 21 Answers" >}}\]
 
-\[[Lesson 21 Home]({{< baseurl >}}/pages/lesson-21)\]
+\[{{< resource_link bffa1146-720a-039c-9aec-636a7a7ab4cd "Lesson 21 Home" >}}\]
