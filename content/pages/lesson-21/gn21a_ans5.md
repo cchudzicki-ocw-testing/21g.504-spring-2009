@@ -18,4 +18,4 @@ uid: 207dce8c-a98f-ff47-df46-5768bf876997
 4.  社長はしゅっちょうだということで、４月１０日までお目にかかれません。
     
 
-\[[Back to Grammar 21A]({{< baseurl >}}/pages/lesson-21/grammar21a#4)\]
+\[{{< resource_link 8d91cd27-1c75-2031-6dcc-da546c822f5b "Back to Grammar 21A" "#4" >}}\]

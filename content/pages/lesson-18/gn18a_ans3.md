@@ -18,4 +18,4 @@ uid: 530412ce-8433-6f2a-a766-ad7b6b9ef778
 4.  さあ、しゅっちょう中か、お休みか、ぜんぜん知りません。  
     さあ、しゅっちょう中か、そうじゃないか、ぜんぜん知りません。
 
-\[[Back to Grammar 18A]({{< baseurl >}}/pages/lesson-18/grammar18a#2)\]
+\[{{< resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Back to Grammar 18A" "#2" >}}\]

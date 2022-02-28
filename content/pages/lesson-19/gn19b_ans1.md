@@ -16,4 +16,4 @@ uid: 418005af-62d7-9c73-dc39-11083579c30d
 5.  去年は日本人じゃない先生に教えてもらいました。
 6.  日本語が上手だったアメリカ人はもう国へ帰りました。
 
-\[[Back to Grammar 19B]({{< baseurl >}}/pages/lesson-19/grammar19b#1)\]
+\[{{< resource_link 15dfb36e-f073-1e3a-30a2-7568de278087 "Back to Grammar 19B" "#1" >}}\]

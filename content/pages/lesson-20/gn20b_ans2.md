@@ -20,4 +20,4 @@ uid: 76ebf69c-4b98-59b9-53fe-5e3b6b2d7afe
 5.  いいえ、あの学生、大学院生のはずはありません。  
     …大学院生じゃないはずです。
 
-\[[Back to Grammar 20B]({{< baseurl >}}/pages/lesson-20/grammar20b#1)\]
+\[{{< resource_link d2b01abc-d6ff-4b35-129a-e93141e3497b "Back to Grammar 20B" "#1" >}}\]

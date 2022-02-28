@@ -13,4 +13,4 @@ uid: b580a545-60d6-7fa9-8763-7f76623b3972
 2.  食べる前にちゃんと手をあらいましたか。
 3.  けっこんする前にいろいろしておきます。
 
-\[[Back to Grammar 19A]({{< baseurl >}}/pages/lesson-19/grammar19a#3)\]
+\[{{< resource_link cb4bfe19-dc7c-3f84-7d18-36e4c07a3338 "Back to Grammar 19A" "#3" >}}\]

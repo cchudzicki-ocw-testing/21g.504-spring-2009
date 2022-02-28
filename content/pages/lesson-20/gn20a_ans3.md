@@ -18,4 +18,4 @@ uid: b7c92702-3797-661c-0dac-299b6fe6b2c0
 4.  Q: 料理するのとさらをあらうのとそうじするのと、どれが一番上手ですか。  
     A: 料理するのが一番上手です。
 
-\[[Back to Grammar 20A]({{< baseurl >}}/pages/lesson-20/grammar20a#3)\]
+\[{{< resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#3" >}}\]

@@ -14,4 +14,4 @@ uid: ab5a7b4b-61aa-36d5-beaa-49cfb22a89e5
 3.  野口さんがおるすの時(に)、うかがいました。
 4.  安い時(に)、たくさん買っておきました。
 
-\[[Back to Grammar 19B]({{< baseurl >}}/pages/lesson-19/grammar19b#3)\]
+\[{{< resource_link 15dfb36e-f073-1e3a-30a2-7568de278087 "Back to Grammar 19B" "#3" >}}\]

@@ -15,4 +15,4 @@ uid: 82f38142-c034-1248-df9a-0652e1fcfab0
 4.  だれにしゅくだいを手伝ってもらいましたか。
 5.  モリスさんに何をしてもらいましたか。
 
-\[[Back to Grammar 17B]({{< baseurl >}}/pages/lesson-17/grammar17b#2)\]
+\[{{< resource_link ea51bf8a-d402-0e7e-95cf-955045d4ec5e "Back to Grammar 17B" "#2" >}}\]

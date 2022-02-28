@@ -31,4 +31,4 @@ uid: 0aed9532-d4b4-4276-a474-b98fdfabde93
     No matter how much time it may take, I will finish reading it.
     
 
-\[[Back to Grammar 21B]({{< baseurl >}}/pages/lesson-21/grammar21b#3)\]
+\[{{< resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#3" >}}\]

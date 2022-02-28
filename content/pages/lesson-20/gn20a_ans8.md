@@ -18,4 +18,4 @@ uid: 2097fee3-dc92-9167-e36b-90eaa2ad11cc
 7.  さん、よっか 三、四日
 8.  し、ごにち 四、五日
 
-\[[Back to Grammar 20A]({{< baseurl >}}/pages/lesson-20/grammar20a#7)\]
+\[{{< resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#7" >}}\]

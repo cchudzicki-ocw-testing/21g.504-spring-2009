@@ -16,4 +16,4 @@ uid: ab1ad996-01e0-119c-af5e-fb737fb62d75
 3.  山本さんには頼まない方がいいと思いますよ。  
     
 
-\[[Back to Grammar 20A]({{< baseurl >}}/pages/lesson-20/grammar20a#4)\]
+\[{{< resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#4" >}}\]

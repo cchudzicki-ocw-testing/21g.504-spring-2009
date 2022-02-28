@@ -25,4 +25,4 @@ uid: 5c82d0f9-89ca-f367-11d7-1e8a6cd04935
     Is it all right if the room is not a Japanese-style room?
     
 
-\[[Back to Grammar 21B]({{< baseurl >}}/pages/lesson-21/grammar21b#2)\]
+\[{{< resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#2" >}}\]

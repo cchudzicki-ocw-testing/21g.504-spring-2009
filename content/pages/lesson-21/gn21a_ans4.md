@@ -16,4 +16,4 @@ uid: 9dcc7891-005e-8a44-6ed4-3b6ca1299871
 3.  こうぎで先生がおしゃったことを説明してください。
     
 
-\[[Back to Grammar 21A]({{< baseurl >}}/pages/lesson-21/grammar21a#4)\]
+\[{{< resource_link 8d91cd27-1c75-2031-6dcc-da546c822f5b "Back to Grammar 21A" "#4" >}}\]

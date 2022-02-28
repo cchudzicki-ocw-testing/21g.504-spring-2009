@@ -22,4 +22,4 @@ uid: 8f69e19d-50f7-1366-9bad-d51516fa113d
     I heard that it's the most convenient to use JR pass in order to travel in Japan.
     
 
-\[[Back to Grammar 21A]({{< baseurl >}}/pages/lesson-21/grammar21a#3)\]
+\[{{< resource_link 8d91cd27-1c75-2031-6dcc-da546c822f5b "Back to Grammar 21A" "#3" >}}\]

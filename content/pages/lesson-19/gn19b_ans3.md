@@ -14,4 +14,4 @@ uid: 3fec0414-a8fc-4484-a8f1-4f0843b65e32
 3.  漢字を忘れた時(に)、じしょで調べます。
 4.  ご飯を食べた時(に)、「ごちそうさま」と言います。
 
-\[[Back to Grammar 19B]({{< baseurl >}}/pages/lesson-19/grammar19b#3)\]
+\[{{< resource_link 15dfb36e-f073-1e3a-30a2-7568de278087 "Back to Grammar 19B" "#3" >}}\]

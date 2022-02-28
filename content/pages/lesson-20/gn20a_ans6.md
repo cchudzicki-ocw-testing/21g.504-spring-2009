@@ -15,4 +15,4 @@ uid: 2a4e3e78-d59a-2c7a-b5a7-226dadc88a8f
 4.  よくテープを聞いたつもりだけど、ぜんぜん言えません。
 5.  そ母は 80 さいですけど、まだわかいつもりです。
 
-\[[Back to Grammar 20A]({{< baseurl >}}/pages/lesson-20/grammar20a#5)\]
+\[{{< resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#5" >}}\]

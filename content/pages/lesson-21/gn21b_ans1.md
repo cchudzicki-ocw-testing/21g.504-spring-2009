@@ -31,4 +31,4 @@ uid: 11a5e643-cca6-d8f9-23b5-cde3dc8fd3a6
     Even though my grandfather is not young, he is full of spirits.
     
 
-\[[Back to Grammar 21B]({{< baseurl >}}/pages/lesson-21/grammar21b#1)\]
+\[{{< resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#1" >}}\]
