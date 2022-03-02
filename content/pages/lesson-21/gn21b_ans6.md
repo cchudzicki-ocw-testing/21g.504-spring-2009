@@ -28,4 +28,4 @@ uid: b6144893-3228-288d-e788-bea8359ccc0b
     Takkyuubin delivers luggage wherever it is.
     
 
-\[{{< resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#3" >}}\]
+\[{{% resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#3" %}}\]

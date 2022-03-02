@@ -11,7 +11,7 @@ uid: 6e99b027-4ba5-3a74-8571-f462c7b1a9b1
 
 Click on the audio file after each reading to hear a recording of the pronunciation.
 
-松島様、({{< resource_link 294b1cb6-5e47-2f68-1e64-e9d5897fac69 "MP3" >}})
+松島様、({{% resource_link 294b1cb6-5e47-2f68-1e64-e9d5897fac69 "MP3" %}})
 
 この間はお世話になりました。わざわざ私の研究室までいらしてコンピューターを直してくださって、、。私には難しすぎて直せなかったと思います。本当に助かりました。
 
@@ -68,6 +68,6 @@ READINGS
 
 {{< tableclose >}}
 
-\[{{< resource_link b5d9aa6e-99d3-8b43-d2cb-6f06bab6b55e "Reading 18A" >}} | Reading 18B | {{< resource_link 2f0cddb5-f476-24aa-5d77-a3137e559fde "Supplemental" >}}\]
+\[{{% resource_link b5d9aa6e-99d3-8b43-d2cb-6f06bab6b55e "Reading 18A" %}} | Reading 18B | {{% resource_link 2f0cddb5-f476-24aa-5d77-a3137e559fde "Supplemental" %}}\]
 
-\[{{< resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" >}}\]
+\[{{% resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" %}}\]

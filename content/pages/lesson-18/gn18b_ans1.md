@@ -15,4 +15,4 @@ uid: d40baf4a-a703-d315-2f7e-be7423d12a14
 4.  この部には、野村という人はおりません。
 5.  お父さんは、何という会社で仕事をなさっていますか。
 
-\[{{< resource_link 6e8187e8-d5ed-322d-f510-3877e509a8c4 "Back to Grammar 18B" "#1" >}}\]
+\[{{% resource_link 6e8187e8-d5ed-322d-f510-3877e509a8c4 "Back to Grammar 18B" "#1" %}}\]

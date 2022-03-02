@@ -11,7 +11,7 @@ uid: f88698f7-cb43-399e-c0dd-512bf5f40f2a
 
 Click on the audio file after each reading to hear an audio recording of the pronunciation.
 
-「宅急便」 ({{< resource_link 1c41d460-66df-4371-e458-8595cffc8e9e "MP3" >}})
+「宅急便」 ({{% resource_link 1c41d460-66df-4371-e458-8595cffc8e9e "MP3" %}})
 
 平成八年三月八日午後四時、スミスさんはノースウエストで成田に着いた。これから、新宿にある友だちの島本さんの家に行くつもりだ。成田空港は、千葉県成田市にあって、都内まで遠いので、少し不便だ。
 
@@ -148,6 +148,6 @@ READINGS
 
 {{< tableclose >}}
 
-\[{{< resource_link 21f90e22-0a36-c1a5-493a-52fc4da81fae "Reading 20A" >}} | Reading 20B\]
+\[{{% resource_link 21f90e22-0a36-c1a5-493a-52fc4da81fae "Reading 20A" %}} | Reading 20B\]
 
-\[{{< resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" >}}\]
+\[{{% resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" %}}\]

@@ -14,4 +14,4 @@ uid: b8a1f952-b670-5611-1e17-b5d08797d89f
 3.  お入りください。or お上がり下さい。
 4.  ごれんらくください。
 
-\[{{< resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Back to Grammar 18A" "#1" >}}\]
+\[{{% resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Back to Grammar 18A" "#1" %}}\]

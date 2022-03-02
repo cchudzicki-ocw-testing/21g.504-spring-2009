@@ -15,7 +15,7 @@ In the following definitions, **on** (Chinese-based) readings are represented by
 
 {{< resource a7fa001d-4d4f-8138-c5f1-5cf8b5207326 >}}
 
-**Video:** {{< resource_link bdbfd650-11c1-d3f3-2fb2-31849e348430 "Writing and pronunciation" >}}
+**Video:** {{% resource_link bdbfd650-11c1-d3f3-2fb2-31849e348430 "Writing and pronunciation" %}}
 
 **Printed form:** 合
 
@@ -32,7 +32,7 @@ Everybody in the assembly 会 says one uniformed opinion.
 
 {{< resource 7731beb5-83d4-2e37-3a18-cbdd80dcd666 >}}
 
-**Video:** {{< resource_link 38253712-c6c9-4c77-0e0d-d7ef4288ca17 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 38253712-c6c9-4c77-0e0d-d7ef4288ca17 "Writing and pronunciation" %}}
 
 **Printed form:** 冷
 
@@ -49,7 +49,7 @@ Everybody in the assembly 会 says one uniformed opinion.
 
 {{< resource 4c80edd4-1deb-0581-7b6a-0120f8966ab2 >}}
 
-**Video:** {{< resource_link 05a40d04-fae5-44e5-6527-c3373995efce "Writing and pronunciation" >}}
+**Video:** {{% resource_link 05a40d04-fae5-44e5-6527-c3373995efce "Writing and pronunciation" %}}
 
 **Printed form:** 実
 
@@ -65,7 +65,7 @@ Under the roof, there are three 三 persons 人.
 
 {{< resource f6165036-af86-72f6-ddd4-d72ead20b455 >}}
 
-**Video:** {{< resource_link ddc6744a-e13c-4227-3a31-6fda98bc2d70 "Writing and pronunciation" >}}
+**Video:** {{% resource_link ddc6744a-e13c-4227-3a31-6fda98bc2d70 "Writing and pronunciation" %}}
 
 **Printed form:** 世
 
@@ -82,7 +82,7 @@ Three tens 十十十 (generations of people) all connected. Also, it looks just 
 
 {{< resource 55fd3952-c2ed-f117-a275-a491b8084e22 >}}
 
-**Video:** {{< resource_link ee7c6841-dd0d-b2aa-2496-54ab5c84bac2 "Writing and pronunciation" >}}
+**Video:** {{% resource_link ee7c6841-dd0d-b2aa-2496-54ab5c84bac2 "Writing and pronunciation" %}}
 
 **Printed form:** 難
 
@@ -98,7 +98,7 @@ The most complicated kanji you have learned so far are 曜 and 漢. 難 is just 
 
 {{< resource 7d35ee0d-74de-7bc3-961a-b20043af201a >}}
 
-**Video:** {{< resource_link 194b48ca-f858-c3db-e8db-f7bc3930030f "Writing and pronunciation" >}}
+**Video:** {{% resource_link 194b48ca-f858-c3db-e8db-f7bc3930030f "Writing and pronunciation" %}}
 
 **Printed form:** 授
 
@@ -115,7 +115,7 @@ The hand radical on the left and the kanji 受 "to receive". \[持 (も) "to car
 
 {{< resource 22552f21-cf28-d64e-1126-0f271a70d4d6 >}}
 
-**Video:** {{< resource_link 740fb639-f755-d86e-2adf-531a51adbba5 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 740fb639-f755-d86e-2adf-531a51adbba5 "Writing and pronunciation" %}}
 
 **Printed form:** 若
 
@@ -131,7 +131,7 @@ The right hand 右 holding young fresh grass. \[花 (はな) "followers"; 茶 (�
 
 {{< resource cd1e968b-71dd-f92a-c4e0-bd82cf944aae >}}
 
-**Video:** {{< resource_link 90e22f77-99c4-5c96-722f-68cfa9348afa "Writing and pronunciation" >}}
+**Video:** {{% resource_link 90e22f77-99c4-5c96-722f-68cfa9348afa "Writing and pronunciation" %}}
 
 **Printed form:** 覚
 
@@ -147,7 +147,7 @@ You can remember things to learn 学 better if you actually see 見 them.
 
 {{< resource d9c45d61-bf6a-1fad-4a73-4ad309f9da8a >}}
 
-**Video:** {{< resource_link 2b1483c3-cdf2-cd90-d345-f1aceab4e56e "Writing and pronunciation" >}}
+**Video:** {{% resource_link 2b1483c3-cdf2-cd90-d345-f1aceab4e56e "Writing and pronunciation" %}}
 
 **Printed form:** 奥
 
@@ -163,7 +163,7 @@ Big amount 大 of rice grains 米 stored in the inner most part of the house. \[
 
 {{< resource 0b3e738f-fdfd-74b9-f1c7-7312fc9d2c5c >}}
 
-**Video:** {{< resource_link b5b70dca-9865-cbb0-b152-d2fb5e2dc671 "Writing and pronunciation" >}}
+**Video:** {{% resource_link b5b70dca-9865-cbb0-b152-d2fb5e2dc671 "Writing and pronunciation" %}}
 
 **Printed form:** 説
 
@@ -179,7 +179,7 @@ The word radical 言 and self-asserting older brother 兄. \[話 (はな-す) "t
 
 {{< resource ef3534ab-76e3-38c8-b18f-23e7d3184856 >}}
 
-**Video:** {{< resource_link aae5b0b4-4604-116d-39b3-0402feb0b7e2 "Writing and pronunciation" >}}
+**Video:** {{% resource_link aae5b0b4-4604-116d-39b3-0402feb0b7e2 "Writing and pronunciation" %}}
 
 **Printed form:** 色
 
@@ -196,7 +196,7 @@ A picture of a man sitting with his feet stretched straight and his mouth open. 
 
 {{< resource 98d54ea5-f90a-7641-17b3-34e3b011d3fe >}}
 
-**Video:** {{< resource_link ba6bf8fb-3b8d-ce8b-3949-f3a1076add89 "Writing and pronunciation" >}}
+**Video:** {{% resource_link ba6bf8fb-3b8d-ce8b-3949-f3a1076add89 "Writing and pronunciation" %}}
 
 **Printed form:** 島
 
@@ -214,13 +214,13 @@ A rare bird 鳥 that can be seen only in the mountain 山 on an island.
 
 {{< resource 14b28075-e805-f34e-727b-1b3b99fdf3e4 >}}
 
-**Video:** {{< resource_link 0fbd07d0-ba1d-07b7-c607-9d32ce3d9950 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 0fbd07d0-ba1d-07b7-c607-9d32ce3d9950 "Writing and pronunciation" %}}
 
 **Printed form:** 松
 
 **Readings:** まつ matsu
 
-**Meaning:** pine (See also {{< resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Grammar 18A Photographic Vocabulary Aid" >}})
+**Meaning:** pine (See also {{% resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Grammar 18A Photographic Vocabulary Aid" %}})
 
 **Mnemonic:**  
 The tree radical 木 and the kanji 公 "public". \[校 (コウ) "school"; 林 (はやし) "forest"; 杯 (ハイ) "-cup(s)"\]
@@ -232,13 +232,13 @@ The tree radical 木 and the kanji 公 "public". \[校 (コウ) "school"; 林 (�
 
 {{< resource 03ffa64e-de37-101d-e8f4-4d057bc6bda5 >}}
 
-**Video:** {{< resource_link e5bad712-6985-dfef-2483-cd813246201f "Writing and pronunciation" >}}
+**Video:** {{% resource_link e5bad712-6985-dfef-2483-cd813246201f "Writing and pronunciation" %}}
 
 **Printed form:** 竹
 
 **Readings:** たけ take
 
-**Meaning:** bamboo (See also {{< resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Grammar 18A Photographic Vocabulary Aid" >}})
+**Meaning:** bamboo (See also {{% resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Grammar 18A Photographic Vocabulary Aid" %}})
 
 **Mnemonic:**  
 Can you see the image of two bamboo stocks with leaves together?
@@ -249,7 +249,7 @@ Can you see the image of two bamboo stocks with leaves together?
 
 {{< resource 6cffed80-7b81-c8d5-0043-7f7f90500dba >}}
 
-**Video:** {{< resource_link ea11d90a-b561-fff4-f88f-04a4e3b5be41 "Writing and pronunciation" >}}
+**Video:** {{% resource_link ea11d90a-b561-fff4-f88f-04a4e3b5be41 "Writing and pronunciation" %}}
 
 **Printed form:** 池
 
@@ -267,7 +267,7 @@ The water radical on the left and a snake 也. \[地 (チ) "ground"\]
 
 {{< resource 324afcef-a4aa-9689-179d-56cc03b2eea4 >}}
 
-**Video:** {{< resource_link 53076289-6cbe-f82f-dd61-eca978b0df16 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 53076289-6cbe-f82f-dd61-eca978b0df16 "Writing and pronunciation" %}}
 
 **Printed form:** 具
 
@@ -282,7 +282,7 @@ The water radical on the left and a snake 也. \[地 (チ) "ground"\]
 
 {{< resource 7015f8a2-a87b-eb41-a952-27ee9360d9ec >}}
 
-**Video:** {{< resource_link c20f0933-7f3f-a1c1-edaf-26590beef9b6 "Writing and pronunciation" >}}
+**Video:** {{% resource_link c20f0933-7f3f-a1c1-edaf-26590beef9b6 "Writing and pronunciation" %}}
 
 **Printed form:** 横
 
@@ -296,7 +296,7 @@ The water radical on the left and a snake 也. \[地 (チ) "ground"\]
 
 {{< resource 38a1941d-1eef-c16b-1264-97546a89953a >}}
 
-**Video:** {{< resource_link 5fcc5dfb-4c4a-11d2-a177-8f3622ca34fe "Writing and pronunciation" >}}
+**Video:** {{% resource_link 5fcc5dfb-4c4a-11d2-a177-8f3622ca34fe "Writing and pronunciation" %}}
 
 **Printed form:** 存
 
@@ -309,7 +309,7 @@ The water radical on the left and a snake 也. \[地 (チ) "ground"\]
 
 {{< resource 2961e566-cf6e-b516-5aa1-d4ae0b9068c7 >}}
 
-**Video:** {{< resource_link 4409fbf1-3ccf-bc79-8399-855f2b9295cf "Writing and pronunciation" >}}
+**Video:** {{% resource_link 4409fbf1-3ccf-bc79-8399-855f2b9295cf "Writing and pronunciation" %}}
 
 **Printed form:** 犬
 
@@ -363,4 +363,4 @@ READINGS
 
 \[Quizzes _(JavaScript required)_: [Meaning](/ans7870/21f/21f.504/s09/lesson18/kanji18-mean/kq18meanq1.html) (29 questions) | [Reading](/ans7870/21f/21f.504/s09/lesson18/kanji18-read/kq18readq1.html) (21 questions)\]
 
-\[{{< resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" >}}\]
+\[{{% resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" %}}\]

@@ -16,4 +16,4 @@ uid: 44ae7281-f2b9-fe40-61cd-93837d606d1a
 5.  エミリーは、今はたちのはすです。
 6.  ツアーは、先週だったはずです。
 
-\[{{< resource_link d2b01abc-d6ff-4b35-129a-e93141e3497b "Back to Grammar 20B" "#1" >}}\]
+\[{{% resource_link d2b01abc-d6ff-4b35-129a-e93141e3497b "Back to Grammar 20B" "#1" %}}\]

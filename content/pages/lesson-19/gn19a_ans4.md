@@ -13,4 +13,4 @@ uid: d1b48d93-bcad-02e5-e56d-acd5ba55d533
 2.  よく分からなかったので、先生に聞いてみました。
 3.  日本語で話してみてくれませんか。
 
-\[{{< resource_link cb4bfe19-dc7c-3f84-7d18-36e4c07a3338 "Back to Lesson 19A" "#4" >}}\]
+\[{{% resource_link cb4bfe19-dc7c-3f84-7d18-36e4c07a3338 "Back to Lesson 19A" "#4" %}}\]

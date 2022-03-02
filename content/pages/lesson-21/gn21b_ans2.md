@@ -22,4 +22,4 @@ uid: 6d46c8dc-0422-7ba7-62f6-3dc6b475fb51
     People drink beer even in summer or in winter in this country, don't they?
     
 
-\[{{< resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#1" >}}\]
+\[{{% resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#1" %}}\]

@@ -13,4 +13,4 @@ uid: 5f56cd61-7697-3b89-287b-2a66f87a627c
 2.  電話でちゅうもんしておいた方がいいと思いますけど。
 3.  日本へ帰った方がいいんじゃないですか。
 
-\[{{< resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#4" >}}\]
+\[{{% resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#4" %}}\]

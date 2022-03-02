@@ -15,7 +15,7 @@ In the following definitions, **on** (Chinese-based) readings are represented by
 
 {{< resource e0a6d098-22cf-64e1-4435-2ef27405b0aa >}}
 
-**Video:** {{< resource_link 2a225618-6cae-6d91-85e3-bd5a52e29499 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 2a225618-6cae-6d91-85e3-bd5a52e29499 "Writing and pronunciation" %}}
 
 **Printed form:** 伝
 
@@ -31,7 +31,7 @@ People 人 (on the left) love to gossip when they meet 会.
 
 {{< resource a70dc73e-4d66-6a25-fe00-7069820914ab >}}
 
-**Video:** {{< resource_link ab82ae0d-64ea-91ef-2abe-66421e021062 "Writing and pronunciation" >}}
+**Video:** {{% resource_link ab82ae0d-64ea-91ef-2abe-66421e021062 "Writing and pronunciation" %}}
 
 **Printed form:** 送
 
@@ -47,7 +47,7 @@ A present with a ribbon is going to be sent.
 
  {{< resource cefbae3b-1fdc-d62d-4b77-78ef37181fbf >}}
 
-**Video:** {{< resource_link c595f488-9218-a69c-6f95-1b4e8e05956b "Writing and pronunciation" >}}
+**Video:** {{% resource_link c595f488-9218-a69c-6f95-1b4e8e05956b "Writing and pronunciation" %}}
 
 **Printed form:** 直
 
@@ -65,7 +65,7 @@ This character means "to fix to be straight". Careful eyes 目 fix things 十 st
 
 {{< resource 9374fe9d-7eb8-d307-08af-a10408ab27ac >}}
 
-**Video:** {{< resource_link f7eb3e80-75fc-4f6c-c4a6-409c65ba7013 "Writing and pronunciation" >}}
+**Video:** {{% resource_link f7eb3e80-75fc-4f6c-c4a6-409c65ba7013 "Writing and pronunciation" %}}
 
 **Printed form:** 決
 
@@ -82,7 +82,7 @@ A person 人 who decides the course of the water (the radical on the left).
 
 {{< resource f154d2bd-2dd8-246f-a6c5-5f418f2d4db4 >}}
 
-**Video:** {{< resource_link b33e3e44-9330-b2b8-431a-d69c3629ba09 "Writing and pronunciation" >}}
+**Video:** {{% resource_link b33e3e44-9330-b2b8-431a-d69c3629ba09 "Writing and pronunciation" %}}
 
 **Printed form:** 花
 
@@ -98,7 +98,7 @@ The grass radical on the top and a character 化 "to change". \[茶 (ちゃ) "te
 
 {{< resource 8660a9b1-6035-b116-4e8f-e897b476ea3a >}}
 
-**Video:** {{< resource_link 66cede67-d083-bbe8-f778-a56399134584 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 66cede67-d083-bbe8-f778-a56399134584 "Writing and pronunciation" %}}
 
 **Printed form:** 医
 
@@ -114,7 +114,7 @@ Arrows 矢 stored in a box. \[知 (し) "know"\]
 
 {{< resource 4e8c3e06-c940-223f-e4c4-34d3564ac92a >}}
 
-**Video:** {{< resource_link fa9f1563-ae37-645a-6d6e-32652662a53b "Writing and pronunciation" >}}
+**Video:** {{% resource_link fa9f1563-ae37-645a-6d6e-32652662a53b "Writing and pronunciation" %}}
 
 **Printed form:** 者
 
@@ -131,7 +131,7 @@ A person who works daily 日 on a farm soil 土 with a tool ノ.
 
 {{< resource 6317eb00-65b0-dcc7-3e40-429bb8a875f1 >}}
 
-**Video:** {{< resource_link 19aaf004-9156-7bf8-e6bb-d11b203c4285 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 19aaf004-9156-7bf8-e6bb-d11b203c4285 "Writing and pronunciation" %}}
 
 **Printed form:** 病
 
@@ -148,7 +148,7 @@ The sickness radical and a person 人 sleeping on a bed covered in a blanket.
 
 {{< resource 7dcf100c-6056-76e1-ecdf-094556f2221c >}}
 
-**Video:** {{< resource_link 235b6ba5-b4aa-07ca-b715-c412e8543397 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 235b6ba5-b4aa-07ca-b715-c412e8543397 "Writing and pronunciation" %}}
 
 **Printed form:** 痛
 
@@ -164,7 +164,7 @@ The sickness radical and katakana マ (person bending down with pain) and 用 (l
 
 {{< resource 2d198837-ea2a-db02-0bfb-10e76c414c9f >}}
 
-**Video:** {{< resource_link 9e735f20-170f-4b71-178b-53203d671b7a "Writing and pronunciation" >}}
+**Video:** {{% resource_link 9e735f20-170f-4b71-178b-53203d671b7a "Writing and pronunciation" %}}
 
 **Printed form:** 頭
 
@@ -181,7 +181,7 @@ The big shell radical 頁 and 豆 (beans). \[お願い (おねがい) "request"\
 
 {{< resource 12f3dbdd-388c-a9c5-5b69-3c074b141301 >}}
 
-**Video:** {{< resource_link 27f49e0a-1768-e64a-0fdb-7c161a095384 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 27f49e0a-1768-e64a-0fdb-7c161a095384 "Writing and pronunciation" %}}
 
 **Printed form:** 体
 
@@ -198,7 +198,7 @@ The person radical and 本, the origin and source (of knowledge).
 
 {{< resource 3b21f3ca-3e58-c1c8-8885-d8031faf9f50 >}}
 
-**Video:** {{< resource_link 3ce5b51f-1e23-5e2c-dbe6-20217f4321c1 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 3ce5b51f-1e23-5e2c-dbe6-20217f4321c1 "Writing and pronunciation" %}}
 
 **Printed form:** 薬
 
@@ -214,7 +214,7 @@ A medicine made from grass (on the top) to make oneself relaxed.
 
 {{< resource 81bdd177-a029-48a6-2b88-b86be633bdf2 >}}
 
-**Video:** {{< resource_link d758075a-196a-5f74-6897-683eed66016d "Writing and pronunciation" >}}
+**Video:** {{% resource_link d758075a-196a-5f74-6897-683eed66016d "Writing and pronunciation" %}}
 
 **Printed form:** 科
 
@@ -232,7 +232,7 @@ A medicine made from grass (on the top) to make oneself relaxed.
 
 {{< resource 48dd59f0-3f01-301c-b0a5-d4f07fcdd82b >}}
 
-**Video:** {{< resource_link f83ce162-61b6-4edd-c5eb-33069359e169 "Writing and pronunciation" >}}
+**Video:** {{% resource_link f83ce162-61b6-4edd-c5eb-33069359e169 "Writing and pronunciation" %}}
 
 **Printed form:** 失
 
@@ -249,7 +249,7 @@ An arrow 矢 went through the top 失.
 
 {{< resource 46a282b8-0e97-ae78-631e-fa4d8400c717 >}}
 
-**Video:** {{< resource_link 5b892c13-6e49-bb7b-ff54-c79f8053c6fe "Writing and pronunciation" >}}
+**Video:** {{% resource_link 5b892c13-6e49-bb7b-ff54-c79f8053c6fe "Writing and pronunciation" %}}
 
 **Printed form:** 礼
 
@@ -265,7 +265,7 @@ When you are at a shrine 社, you have to show your thanks to God.
 
 {{< resource 353dd0e3-4cfa-f368-9170-833453365017 >}}
 
-**Video:** {{< resource_link b944de24-9191-16ce-7833-6d2fb5b76175 "Writing and pronunciation" >}}
+**Video:** {{% resource_link b944de24-9191-16ce-7833-6d2fb5b76175 "Writing and pronunciation" %}}
 
 **Printed form:** 足
 
@@ -279,7 +279,7 @@ When you are at a shrine 社, you have to show your thanks to God.
 
 {{< resource 59de9da2-5a9e-9f1e-e662-0c58b0b7e60e >}}
 
-**Video:** {{< resource_link 3a22a1ae-eadc-94eb-81ab-a9591e994db2 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 3a22a1ae-eadc-94eb-81ab-a9591e994db2 "Writing and pronunciation" %}}
 
 **Printed form:** 耳
 
@@ -292,7 +292,7 @@ When you are at a shrine 社, you have to show your thanks to God.
 
 {{< resource e509fc7f-780b-b965-ddef-734f11e504b1 >}}
 
-**Video:** {{< resource_link fae9a6b4-dbc6-e9b3-755c-666a03296b2f "Writing and pronunciation" >}}
+**Video:** {{% resource_link fae9a6b4-dbc6-e9b3-755c-666a03296b2f "Writing and pronunciation" %}}
 
 **Printed form:** 枚
 
@@ -306,7 +306,7 @@ When you are at a shrine 社, you have to show your thanks to God.
 
 {{< resource 7e3abf1e-6ef2-7804-98d5-d5792cd2980f >}}
 
-**Video:** {{< resource_link 43d65d2b-1ed3-f716-71d8-77c9da04077d "Writing and pronunciation" >}}
+**Video:** {{% resource_link 43d65d2b-1ed3-f716-71d8-77c9da04077d "Writing and pronunciation" %}}
 
 **Printed form:** 員
 
@@ -403,4 +403,4 @@ READINGS
   
 \[Quizzes _(JavaScript required)_: [Meaning](/ans7870/21f/21f.504/s09/lesson17/kanji17-mean/kq17meanq1.html) (16 questions) | [Reading](/ans7870/21f/21f.504/s09/lesson17/kanji17-read/kq17readq1.html) (20 questions) | [Character Recognition](/ans7870/21f/21f.504/s09/lesson17/kanji17-recog/kq17recogq1.html) (14 questions)\]
 
-\[{{< resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" >}}\]
+\[{{% resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" %}}\]

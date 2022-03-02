@@ -15,4 +15,4 @@ uid: c69ab351-bc4e-5498-2c96-b76416641879
 4.  この仕事をしてくれたのは松田さんです。
 5.  ううん、見たいのはホームドラマ。
 
-\[{{< resource_link cb4bfe19-dc7c-3f84-7d18-36e4c07a3338 "Back to Grammar 19A" "#2" >}}\]
+\[{{% resource_link cb4bfe19-dc7c-3f84-7d18-36e4c07a3338 "Back to Grammar 19A" "#2" %}}\]

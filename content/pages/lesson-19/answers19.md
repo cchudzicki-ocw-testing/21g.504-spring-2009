@@ -224,6 +224,6 @@ uid: 08ee4788-b4e4-f024-7fdc-82ca83881eb9
         Right! The translation is: "As for the one that I got off, it was a super express which arrived at 10:00." Refer to 10b above.
         
 
-\[{{< resource_link 7e07361d-60a5-b4e8-c1f2-ab0a478ea090 "Practice Quiz 19" >}} | Practice Quiz 19 Answers\]
+\[{{% resource_link 7e07361d-60a5-b4e8-c1f2-ab0a478ea090 "Practice Quiz 19" %}} | Practice Quiz 19 Answers\]
 
-\[{{< resource_link 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25 "Lesson 19 Home" >}}\]
+\[{{% resource_link 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25 "Lesson 19 Home" %}}\]

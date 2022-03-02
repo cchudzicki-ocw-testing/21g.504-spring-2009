@@ -11,7 +11,7 @@ uid: 2cccb8b9-9929-ba65-70bc-989ffd48f47a
 
 Click on the audio file to hear an audio recording of the pronunciation.
 
-寺田さん、 ({{< resource_link cc83f237-bc7e-4ae5-374a-55f8b9a5aabd "MP3 - 1.3MB" >}})
+寺田さん、 ({{% resource_link cc83f237-bc7e-4ae5-374a-55f8b9a5aabd "MP3 - 1.3MB" %}})
 
 お元気ですか。今朝、こちらは今年初めての雪でした。午後は雨に変わりましたが、こちらはやっぱり東京よりずいぶん寒いと思います。風邪を引いてしまって、三日ほど薬を飲んでいますが、まだ、のどと耳が少しおかしいんです。
 
@@ -235,6 +235,6 @@ take care of yourself (lit. "attach attention to your body"), used when for exam
 {{< tableclose >}}
 
   
-\[{{< resource_link 86812d1f-cae3-87cd-5b4a-303e028230f3 "Reading 17A" >}} | Reading 17B\]
+\[{{% resource_link 86812d1f-cae3-87cd-5b4a-303e028230f3 "Reading 17A" %}} | Reading 17B\]
 
-\[{{< resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" >}}\]
+\[{{% resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" %}}\]

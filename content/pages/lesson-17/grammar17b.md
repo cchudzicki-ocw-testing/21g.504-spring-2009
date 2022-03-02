@@ -63,7 +63,7 @@ Express the situations from the benefiting receiver's viewpoints.
 3.  (あなた) (receiver) → けいちゃん (giver): 何
 4.  (あなた) (receiver) → だれ (giver): その手紙
 
-{{< resource_link ac98471a-f322-094b-20a3-d2455a14ccb7 "Answers" >}}
+{{% resource_link ac98471a-f322-094b-20a3-d2455a14ccb7 "Answers" %}}
 
 {{< anchor "2" >}}{{< /anchor >}}Vte + もらう "Have someone do something; Ask s.o. to do s.t." (lit. Receive a benefit from someone's doing something)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -108,7 +108,7 @@ Express the situations from the benefit receiver's viewpoints.
 5.  だれが(あなたの)しゅくだいを手伝いましたか → (あなたは)
 6.  モリスさんは何をしましたか (for your sake) →
 
-{{< resource_link 82f38142-c034-1248-df9a-0652e1fcfab0 "Answers" >}}
+{{% resource_link 82f38142-c034-1248-df9a-0652e1fcfab0 "Answers" %}}
 
 {{< anchor "3" >}}{{< /anchor >}}Miscellaneous Notes (MN)
 ---------------------------------------------------------
@@ -182,6 +182,6 @@ The thumbnail photos below contain some of the words you know from this lesson. 
   
  
 
-\[{{< resource_link 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0 "Grammar 17A" >}} | Grammar 17B\] 
+\[{{% resource_link 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0 "Grammar 17A" %}} | Grammar 17B\] 
 
-\[{{< resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" >}}\]
+\[{{% resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" %}}\]

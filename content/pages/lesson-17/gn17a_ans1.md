@@ -18,4 +18,4 @@ uid: ef161eb1-1bdd-468a-cca7-5633727ba716
 7.  山森先生は私に写真を下さいました。
 8.  おきゃくさまはむすめにきれいな本を下さいました。
 
-\[{{< resource_link 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0 "Back to Grammar 17A" "#1" >}}\]
+\[{{% resource_link 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0 "Back to Grammar 17A" "#1" %}}\]

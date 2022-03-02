@@ -71,7 +71,7 @@ Make a sentence modifier to fit in each of the given contexts.
     \_\_\_\_\_\_\_\_\_\_\_\_\_\_ テーブルですか。
     
 
-{{< resource_link 4ff95dd2-c0c1-bb0d-9645-e36eb5216d61 "Answers" >}}
+{{% resource_link 4ff95dd2-c0c1-bb0d-9645-e36eb5216d61 "Answers" %}}
 
 {{< anchor "2" >}}{{< /anchor >}}Anticipatory の "It is X that ...; what ... is X"
 ---------------------------------------------------------------------------------
@@ -123,7 +123,7 @@ What does の refer to in the following sentences?
     ううん、(ホームドラマ)
     
 
-{{< resource_link c69ab351-bc4e-5498-2c96-b76416641879 "Answers" >}}
+{{% resource_link c69ab351-bc4e-5498-2c96-b76416641879 "Answers" %}}
 
 {{< anchor "3" >}}{{< /anchor >}}V imperfective/N の\] + の前 (に) "before V/before N"
 ----------------------------------------------------------------------------------
@@ -149,7 +149,7 @@ Combine the two sentences with 前に.
 2.  (食べました) + ちゃんと手をあらいましたか。
 3.  (けっこんします) + いろいろしておきます。
 
-{{< resource_link b580a545-60d6-7fa9-8763-7f76623b3972 "Answers" >}}
+{{% resource_link b580a545-60d6-7fa9-8763-7f76623b3972 "Answers" %}}
 
 {{< anchor "4" >}}{{< /anchor >}}V-Gerund + みる "do V and see how it turns out; try V-ing"
 -----------------------------------------------------------------------------------------
@@ -177,7 +177,7 @@ Paraphrase the expressions in the parentheses using てみる.
 2.  よく分からなかったので、先生に (聞きました)。
 3.  日本語で (話してくれません) か。
 
-{{< resource_link d1b48d93-bcad-02e5-e56d-acd5ba55d533 "Answers" >}}
+{{% resource_link d1b48d93-bcad-02e5-e56d-acd5ba55d533 "Answers" %}}
 
 {{< anchor "5" >}}{{< /anchor >}}Photographic Vocabulary Aid
 ------------------------------------------------------------
@@ -202,6 +202,6 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 
 [Photographic Vocabulary Aid: Main](http://web.mit.edu/21f.500/www/vocab-photo/index.html)
 
-\[Grammar 19A | {{< resource_link 15dfb36e-f073-1e3a-30a2-7568de278087 "Grammar 19B" >}}\]
+\[Grammar 19A | {{% resource_link 15dfb36e-f073-1e3a-30a2-7568de278087 "Grammar 19B" %}}\]
 
-\[{{< resource_link 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25 "Lesson 19 Home" >}}\]
+\[{{% resource_link 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25 "Lesson 19 Home" %}}\]

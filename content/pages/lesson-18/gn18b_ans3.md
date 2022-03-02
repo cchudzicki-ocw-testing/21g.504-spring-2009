@@ -16,4 +16,4 @@ uid: df9e00da-ff90-c54e-77da-1655f119e035
 5.  カメラをどこに置いたか忘れてしまった。
 6.  会ぎが何というホテルであったかも、何日間かも覚えていない。
 
-\[{{< resource_link 6e8187e8-d5ed-322d-f510-3877e509a8c4 "Back to Grammar 18B" "#3" >}}\]
+\[{{% resource_link 6e8187e8-d5ed-322d-f510-3877e509a8c4 "Back to Grammar 18B" "#3" %}}\]

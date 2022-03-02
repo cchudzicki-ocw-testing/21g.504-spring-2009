@@ -14,4 +14,4 @@ uid: ac98471a-f322-094b-20a3-d2455a14ccb7
 3.  (あなたは)けいちゃんに何をもらったの?
 4.  (あなたは)だれにその手紙をもらいましたか。
 
-\[{{< resource_link ea51bf8a-d402-0e7e-95cf-955045d4ec5e "Back to Grammar 17B" "#1" >}}\]
+\[{{% resource_link ea51bf8a-d402-0e7e-95cf-955045d4ec5e "Back to Grammar 17B" "#1" %}}\]

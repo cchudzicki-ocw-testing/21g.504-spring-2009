@@ -61,7 +61,7 @@ Examples
 5.  エミリーは、今はたちです。
 6.  ツアーは、先週でした。
 
-{{< resource_link 44ae7281-f2b9-fe40-61cd-93837d606d1a "Answers" >}}
+{{% resource_link 44ae7281-f2b9-fe40-61cd-93837d606d1a "Answers" %}}
 
 1.  Negative of はず ~ないはずだ, ~はず{は}ない
     
@@ -92,7 +92,7 @@ Examples
     4.  みどりさん、きのうは忙しかったんでしょうか。いいえ、
     5.  あの学生、大学院生でしょうか。いいえ、
     
-    {{< resource_link 76ebf69c-4b98-59b9-53fe-5e3b6b2d7afe "Answers" >}}
+    {{% resource_link 76ebf69c-4b98-59b9-53fe-5e3b6b2d7afe "Answers" %}}
     
 2.  Tense of はず
     
@@ -153,6 +153,6 @@ Examples
     1.  道をまちがえてしまった。(まちがえちゃった)
     2.  南口と北口をまちがえました。
 
-\[{{< resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Grammar 20A" >}} | Grammar 20B\]
+\[{{% resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Grammar 20A" %}} | Grammar 20B\]
 
-\[{{< resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" >}}\]
+\[{{% resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" %}}\]

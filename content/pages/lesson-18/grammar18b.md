@@ -47,7 +47,7 @@ Examples:
 4.  この部には、 (a person called "Nomura") はおりません。
 5.  お父さんは、 (which company (lit. company named what)) で仕事をなさっていますか。
 
-{{< resource_link d40baf4a-a703-d315-2f7e-be7423d12a14 "Answers" >}}
+{{% resource_link d40baf4a-a703-d315-2f7e-be7423d12a14 "Answers" %}}
 
 Asking for explanation/definition:
 
@@ -145,7 +145,7 @@ Paraphrase the following sentences in indirect quotations.
 4.  部長は「その会ぎにぼくが出てあげるよ。」っておっしゃいました。
 5.  大田さんが「何だいもコンピューターを直した?」と言いました。
 
-{{< resource_link 5ab01a72-01f0-08f2-8b61-51ea9cf930eb "Answers" >}}
+{{% resource_link 5ab01a72-01f0-08f2-8b61-51ea9cf930eb "Answers" %}}
 
 {{< anchor "3" >}}{{< /anchor >}}Embedded WH- Questions
 -------------------------------------------------------
@@ -198,11 +198,11 @@ Combine the following sentences.
     
 6.  会ぎは何というホテルでありますか + 何日間ありますか + 覚えていない。 →
 
-{{< resource_link df9e00da-ff90-c54e-77da-1655f119e035 "Answers" >}}
+{{% resource_link df9e00da-ff90-c54e-77da-1655f119e035 "Answers" %}}
 
   
  
 
-\[{{< resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Grammar 18A" >}} | Grammar 18B\]
+\[{{% resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Grammar 18A" %}} | Grammar 18B\]
 
-\[{{< resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" >}}\]
+\[{{% resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" %}}\]

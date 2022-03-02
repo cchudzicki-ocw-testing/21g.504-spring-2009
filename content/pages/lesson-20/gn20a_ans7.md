@@ -18,4 +18,4 @@ uid: 8cba059c-389a-3c27-4383-788a48938457
 7.  だれにわたそうと思っていますか。
 8.  どの電車にのろうと思っていますか。
 
-\[{{< resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#6" >}}\]
+\[{{% resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#6" %}}\]

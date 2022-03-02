@@ -15,4 +15,4 @@ uid: 7204bd1b-1cfc-88b5-0f97-dfae5174abb9
 4.  ここでは、たばこをすわないで{ください/くださいますか/くださいませんか}。
 5.  まだ帰らないで/まだ帰らないで{くれる/くれない}。
 
-\[{{< resource_link 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0 "Back to Grammar 17A" "#3" >}}\]
+\[{{% resource_link 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0 "Back to Grammar 17A" "#3" %}}\]

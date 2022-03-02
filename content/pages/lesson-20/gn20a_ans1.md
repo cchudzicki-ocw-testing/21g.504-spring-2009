@@ -14,4 +14,4 @@ uid: 191cdf68-532a-6220-2cea-5c5fe2b4c508
 3.  そんな仕事をするのは大変です。
 4.  ジルがたばこをすっているのを見ました。
 
-\[{{< resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#1" >}}\]
+\[{{% resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#1" %}}\]

@@ -15,7 +15,7 @@ In the following definitions, **on** (Chinese-based) readings are represented by
 
 {{< resource 66ec5f62-d73c-c159-5448-0a5e3b34b3ae >}}
 
-**Video:** {{< resource_link ba628442-cac7-5f3a-2b81-f65bde25b37c "Writing and pronunciation" >}}
+**Video:** {{% resource_link ba628442-cac7-5f3a-2b81-f65bde25b37c "Writing and pronunciation" %}}
 
 **Printed form:** 頼
 
@@ -31,7 +31,7 @@ In the following definitions, **on** (Chinese-based) readings are represented by
 
 {{< resource 709bf37e-5639-6dfb-c214-514634daf60f >}}
 
-**Video:** {{< resource_link 20d009da-38ed-9a35-7eb3-eb58b4a53424 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 20d009da-38ed-9a35-7eb3-eb58b4a53424 "Writing and pronunciation" %}}
 
 **Printed form:** 便
 
@@ -48,7 +48,7 @@ If a person イ can change 更, it's convenient.
 
 {{< resource 386eaa19-6a32-adc2-d041-4141c9066316 >}}
 
-**Video:** {{< resource_link ba751519-677e-e9ea-cb16-fea8adb78ed5 "Writing and pronunciation" >}}
+**Video:** {{% resource_link ba751519-677e-e9ea-cb16-fea8adb78ed5 "Writing and pronunciation" %}}
 
 **Printed form:** 利
 
@@ -61,7 +61,7 @@ Rice plants 禾 harvested with sickle which looks like リ.
 
 {{< resource 69977baf-e398-19b5-b667-14e49315ee0d >}}
 
-**Video:** {{< resource_link 5935251c-e6b1-efb1-55a1-ac303a51332d "Writing and pronunciation" >}}
+**Video:** {{% resource_link 5935251c-e6b1-efb1-55a1-ac303a51332d "Writing and pronunciation" %}}
 
 **Printed form:** 不
 
@@ -77,7 +77,7 @@ Stillborn baby 小 buried under the ground.
 
 {{< resource 428a49e6-3953-0b14-d937-f504fd0454b5 >}}
 
-**Video:** {{< resource_link 23141289-ac2f-d731-c3a0-d94351b56f55 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 23141289-ac2f-d731-c3a0-d94351b56f55 "Writing and pronunciation" %}}
 
 **Printed form:** 速
 
@@ -93,7 +93,7 @@ Stillborn baby 小 buried under the ground.
 
 {{< resource ee349784-f703-f14d-2318-d4af226b2a05 >}}
 
-**Video:** {{< resource_link 31582894-a2b3-c000-76e6-6fe1f7dc96e3 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 31582894-a2b3-c000-76e6-6fe1f7dc96e3 "Writing and pronunciation" %}}
 
 **Printed form:** 急
 
@@ -109,7 +109,7 @@ A mouth wide open (top); hand (middle); and heart (bottom). When you are in a hu
 
 {{< resource b3502f14-22b0-4444-4535-b10f35a94254 >}}
 
-**Video:** {{< resource_link e756f6dc-7fb1-5cfb-e597-957f14678fd1 "Writing and pronunciation" >}}
+**Video:** {{% resource_link e756f6dc-7fb1-5cfb-e597-957f14678fd1 "Writing and pronunciation" %}}
 
 **Printed form:** 多
 
@@ -125,7 +125,7 @@ Many moons タ ago... \[名 (な) "name"\]
 
 {{< resource 99acd433-6eed-6ff2-0033-37409979fce6 >}}
 
-**Video:** {{< resource_link f45d9417-810b-eb46-41cb-95a688fc076c "Writing and pronunciation" >}}
+**Video:** {{% resource_link f45d9417-810b-eb46-41cb-95a688fc076c "Writing and pronunciation" %}}
 
 **Printed form:** 重
 
@@ -141,7 +141,7 @@ Car 車 with extra strokes on top and bottom is heavier.
 
 {{< resource 5842abf1-e0b5-b9ce-1486-f78069390d9e >}}
 
-**Video:** {{< resource_link 642fb592-745a-fc9b-9daa-71a37f998c93 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 642fb592-745a-fc9b-9daa-71a37f998c93 "Writing and pronunciation" %}}
 
 **Printed form:** 平
 
@@ -157,7 +157,7 @@ A perfectly symmetrical design.
 
 {{< resource b9714e94-9862-5aa7-c0a4-46e01ce1133f >}}
 
-**Video:** {{< resource_link 51077c42-fdb0-e614-ea86-6c012d1fa303 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 51077c42-fdb0-e614-ea86-6c012d1fa303 "Writing and pronunciation" %}}
 
 **Printed form:** 成
 
@@ -173,7 +173,7 @@ Combination of soldiers' spears 戈 and 10,000 万 men.
 
 {{< resource 446ddcce-a7a8-7a24-2190-56b3746e7a06 >}}
 
-**Video:** {{< resource_link 903b8462-05e1-c1fb-978c-29805fa7d5d6 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 903b8462-05e1-c1fb-978c-29805fa7d5d6 "Writing and pronunciation" %}}
 
 **Printed form:** 乗
 
@@ -190,7 +190,7 @@ A Christmas tree 木 decorated with pretty ornaments.
 
 {{< resource 38881fe4-6bec-98f9-9c0d-f3f7a4fe0465 >}}
 
-**Video:** {{< resource_link c14d6ec2-f565-bd7e-40b8-b77588edd4fc "Writing and pronunciation" >}}
+**Video:** {{% resource_link c14d6ec2-f565-bd7e-40b8-b77588edd4fc "Writing and pronunciation" %}}
 
 **Printed form:** 降
 
@@ -206,7 +206,7 @@ This institution 院 has changed 変 a lot over the years 年.
 
 {{< resource b95c854b-1d7d-2f4b-dcd7-99ab243cfa27 >}}
 
-**Video:** {{< resource_link 74d0ec3b-7dc8-23f9-6d8d-4e8ea31318db "Writing and pronunciation" >}}
+**Video:** {{% resource_link 74d0ec3b-7dc8-23f9-6d8d-4e8ea31318db "Writing and pronunciation" %}}
 
 **Printed form:** 町
 
@@ -223,7 +223,7 @@ Rice field 田 surveyed and marked by stakes 丁.
 
 {{< resource b1bab2b1-c80d-65c8-b173-67e3017898e3 >}}
 
-**Video:** {{< resource_link 3c13d6a9-e845-2e02-0ef6-0ac7781c4939 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 3c13d6a9-e845-2e02-0ef6-0ac7781c4939 "Writing and pronunciation" %}}
 
 **Printed form:** 市
 
@@ -241,7 +241,7 @@ A picture of a market building. 巾 is the kanji for "cloth". \[姉 (あね) "ol
 
 {{< resource 709c3356-ee85-7ddb-2d7e-ae86d0b278c2 >}}
 
-**Video:** {{< resource_link 3acbce92-cc6a-1801-4fb3-ca6237ead666 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 3acbce92-cc6a-1801-4fb3-ca6237ead666 "Writing and pronunciation" %}}
 
 **Printed form:** 自
 
@@ -257,7 +257,7 @@ A picture of a person's nose. Japanese point at their nose as they say, "It's me
 
 {{< resource 70bd33a4-6314-dd92-fc3d-4991308c4445 >}}
 
-**Video:** {{< resource_link 47764431-ab82-f1ce-74af-f63e18b1229e "Writing and pronunciation" >}}
+**Video:** {{% resource_link 47764431-ab82-f1ce-74af-f63e18b1229e "Writing and pronunciation" %}}
 
 **Printed form:** 個
 
@@ -273,7 +273,7 @@ Person イ and solid 固 (like an aged 古 lump of cheese 口).
 
 {{< resource 5e47964b-81b8-2ca8-d13d-9cc73ab988ce >}}
 
-**Video:** {{< resource_link c19144e3-a290-64e9-cbbb-17169276c736 "Writing and pronunciation" >}}
+**Video:** {{% resource_link c19144e3-a290-64e9-cbbb-17169276c736 "Writing and pronunciation" %}}
 
 **Printed form:** 心
 
@@ -287,7 +287,7 @@ Person イ and solid 固 (like an aged 古 lump of cheese 口).
 
  {{< resource ac6befeb-494e-379a-c618-b3a3890edf32 >}}
 
-**Video:** {{< resource_link 9a35aa1a-e27b-a510-2ac2-3cdf9bfe9af5 "Writing and pronunciation" >}}
+**Video:** {{% resource_link 9a35aa1a-e27b-a510-2ac2-3cdf9bfe9af5 "Writing and pronunciation" %}}
 
 **Printed form:** 配
 
@@ -300,7 +300,7 @@ Person イ and solid 固 (like an aged 古 lump of cheese 口).
 
 {{< resource adb21c84-8280-cd6e-7452-f19a04786dd6 >}}
 
-**Video:** {{< resource_link d9074677-f9d8-8a28-73da-a62f3520b0c4 "Writing and pronunciation" >}}
+**Video:** {{% resource_link d9074677-f9d8-8a28-73da-a62f3520b0c4 "Writing and pronunciation" %}}
 
 **Printed form:** 軽
 
@@ -314,7 +314,7 @@ Person イ and solid 固 (like an aged 古 lump of cheese 口).
 
 {{< resource 95552377-f74f-0802-a9a7-91ada3a676cc >}}
 
-**Video:** {{< resource_link bd7ccda1-bac1-da03-438f-a67017ece019 "Writing and pronunciation" >}}
+**Video:** {{% resource_link bd7ccda1-bac1-da03-438f-a67017ece019 "Writing and pronunciation" %}}
 
 **Printed form:** 券
 
@@ -411,4 +411,4 @@ READINGS
 
 \[Quizzes _(JavaScript required_): [Meaning](/ans7870/21f/21f.504/s09/lesson20/kanji20-mean/kq20meanq1.html) (27 questions) | [Reading](/ans7870/21f/21f.504/s09/lesson20/kanji20-read/kq20readq1.html) (23 questions)\]
 
-\[{{< resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" >}}\]
+\[{{% resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" %}}\]

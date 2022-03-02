@@ -14,4 +14,4 @@ uid: 4ff95dd2-c0c1-bb0d-9645-e36eb5216d61
 3.  \[かぎが/のかかっていない\] まどはどれですか。
 4.  \[だれが/の持って来た\] テーブルですか。
 
-\[{{< resource_link cb4bfe19-dc7c-3f84-7d18-36e4c07a3338 "Back to Grammar 19A" "#1" >}}\]
+\[{{% resource_link cb4bfe19-dc7c-3f84-7d18-36e4c07a3338 "Back to Grammar 19A" "#1" %}}\]

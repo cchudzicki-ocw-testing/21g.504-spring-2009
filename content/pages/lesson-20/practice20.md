@@ -82,6 +82,6 @@ Choose possible combinations. There may be zero or more than one possible combin
     2.  じゃないよ。
     3.  子ども?
 
-\[Practice Quiz 20 | {{< resource_link 988fb1e0-654e-f228-42b2-7b2426754f5b "Practice Quiz 20 Answers" >}}\]
+\[Practice Quiz 20 | {{% resource_link 988fb1e0-654e-f228-42b2-7b2426754f5b "Practice Quiz 20 Answers" %}}\]
 
-\[{{< resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" >}}\]
+\[{{% resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" %}}\]

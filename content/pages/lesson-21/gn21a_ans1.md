@@ -22,4 +22,4 @@ uid: 9884360f-fdcf-6d4d-a694-b92a705b54c9
     I taught him a street that was wrong.
     
 
-\[{{< resource_link 8d91cd27-1c75-2031-6dcc-da546c822f5b "Back to Grammar 21A" "#1" >}}\]
+\[{{% resource_link 8d91cd27-1c75-2031-6dcc-da546c822f5b "Back to Grammar 21A" "#1" %}}\]

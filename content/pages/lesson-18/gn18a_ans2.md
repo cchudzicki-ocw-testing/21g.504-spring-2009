@@ -16,4 +16,4 @@ uid: 9da30a2e-7c5f-1c70-8f78-ef721d10a333
 5.  さあ、金曜だったかどうか忘れてしまいました。
 6.  もうごちゅうもんなさったかどうかぞんじませんが…
 
-\[{{< resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Back to Grammar 18A" "#2" >}}\]
+\[{{% resource_link 73a4d4dc-15bd-2104-712b-1718423f7635 "Back to Grammar 18A" "#2" %}}\]

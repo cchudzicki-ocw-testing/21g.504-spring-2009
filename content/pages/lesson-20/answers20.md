@@ -256,6 +256,6 @@ uid: 988fb1e0-654e-f228-42b2-7b2426754f5b
         Is s/he the child who is expected to be in bed having caught a cold?
         
 
-\[{{< resource_link 855da04b-010a-c98e-f4c2-d1f6c7f335ba "Practice Quiz 20" >}} | Practice Quiz 20 Answers\]
+\[{{% resource_link 855da04b-010a-c98e-f4c2-d1f6c7f335ba "Practice Quiz 20" %}} | Practice Quiz 20 Answers\]
 
-\[{{< resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" >}}\]
+\[{{% resource_link 1658c715-de8b-1752-598d-a7d8228f0109 "Lesson 20 Home" %}}\]

@@ -78,7 +78,7 @@ Describe the following situations when the giver gave something to the receiver.
 7.  山森先生 (giver) → 私 (receiver); 写真
 8.  おきゃくさま (giver) → むすめ (receiver); きれいな本
 
-{{< resource_link ef161eb1-1bdd-468a-cca7-5633727ba716 "Answers" >}}
+{{% resource_link ef161eb1-1bdd-468a-cca7-5633727ba716 "Answers" %}}
 
 {{< anchor "2" >}}{{< /anchor >}}Vte + あげる/くれる "Do s.t. for s.o.; Do s.o. a favor by doing s.t."
 ------------------------------------------------------------------------------------------------
@@ -133,7 +133,7 @@ Express the following using Vte + れる/あげる.
 7.  おきゃくさまを駅まで送りましょうか。→
 8.  ぼくは弟のしゅくだいを手伝いません。→
 
-{{< resource_link 3c59f4ef-26f2-a03f-3ab1-e69e8cc0d0ce "Answers" >}}
+{{% resource_link 3c59f4ef-26f2-a03f-3ab1-e69e8cc0d0ce "Answers" %}}
 
 Additional Request Structural Patterns (SP)
 -------------------------------------------
@@ -173,7 +173,7 @@ Practice making requests in different politeness levels.
 4.  \[To a stranger\] Please do not smoke here.
 5.  \[To your friend\] Please do not go home yet.
 
-{{< resource_link 7204bd1b-1cfc-88b5-0f97-dfae5174abb9 "Answers" >}}
+{{% resource_link 7204bd1b-1cfc-88b5-0f97-dfae5174abb9 "Answers" %}}
 
 {{< anchor "4" >}}{{< /anchor >}}Miscellaneous Notes (MN)
 ---------------------------------------------------------
@@ -202,6 +202,6 @@ Practice making requests in different politeness levels.
         I have a bit of a headache today...
         
 
-\[Grammar 17A | {{< resource_link ea51bf8a-d402-0e7e-95cf-955045d4ec5e "Grammar 17B" >}}\] 
+\[Grammar 17A | {{% resource_link ea51bf8a-d402-0e7e-95cf-955045d4ec5e "Grammar 17B" %}}\] 
 
-\[{{< resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" >}}\]
+\[{{% resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17 Home" %}}\]

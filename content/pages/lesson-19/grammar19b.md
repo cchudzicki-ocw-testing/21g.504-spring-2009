@@ -63,7 +63,7 @@ Compare following の. How do they differ?
     \_\_\_\_\_\_\_\_\_\_\_ アメリカ人はもう国へ帰りました。
     
 
-{{< resource_link 418005af-62d7-9c73-dc39-11083579c30d "Answers" >}}
+{{% resource_link 418005af-62d7-9c73-dc39-11083579c30d "Answers" %}}
 
 {{< anchor "2" >}}{{< /anchor >}}あと
 -----------------------------------
@@ -91,7 +91,7 @@ Combine the sentences using 後で.
 3.  (れんらくしました) + 気がつきました。
 4.  (食事) + えいがを見に行きませんか。
 
-{{< resource_link 1a770193-317c-d4ee-a3ae-1d06882a8216 "Answers" >}}
+{{% resource_link 1a770193-317c-d4ee-a3ae-1d06882a8216 "Answers" %}}
 
 {{< anchor "3" >}}{{< /anchor >}}時
 ----------------------------------
@@ -122,7 +122,7 @@ Combine the sentences using 後で.
     3.  漢字を忘れます + じしょで調べます。
     4.  ご飯を食べます +「ごちそうさま」と言います。
     
-    {{< resource_link 3fec0414-a8fc-4484-a8f1-4f0843b65e32 "Answers" >}}
+    {{% resource_link 3fec0414-a8fc-4484-a8f1-4f0843b65e32 "Answers" %}}
     
 2.  \[state\] 時 (に)
     
@@ -147,7 +147,7 @@ Combine the sentences using 後で.
     3.  野口さんはおるすでした + うかがいました。
     4.  安かったです + たくさん買っておきました。
     
-    {{< resource_link ab5a7b4b-61aa-36d5-beaa-49cfb22a89e5 "Answers" >}}
+    {{% resource_link ab5a7b4b-61aa-36d5-beaa-49cfb22a89e5 "Answers" %}}
     
 
 {{< anchor "4" >}}{{< /anchor >}}Photographic Vocabulary Aid
@@ -170,6 +170,6 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 
 [Photographic Vocabulary Aid: Main](http://web.mit.edu/21f.500/www/vocab-photo/index.html)
 
-\[{{< resource_link cb4bfe19-dc7c-3f84-7d18-36e4c07a3338 "Grammar 19A" >}} | Grammar 19B\]
+\[{{% resource_link cb4bfe19-dc7c-3f84-7d18-36e4c07a3338 "Grammar 19A" %}} | Grammar 19B\]
 
-\[{{< resource_link 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25 "Lesson 19 Home" >}}\]
+\[{{% resource_link 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25 "Lesson 19 Home" %}}\]

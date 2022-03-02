@@ -40,7 +40,7 @@ Compare:
 3.  Please come in.
 4.  Please get in touch.
 
-{{< resource_link b8a1f952-b670-5611-1e17-b5d08797d89f "Answers" >}}
+{{% resource_link b8a1f952-b670-5611-1e17-b5d08797d89f "Answers" %}}
 
 {{< anchor "2" >}}{{< /anchor >}}Embedded Alternative Questions
 
@@ -118,7 +118,7 @@ Compare:
     6.  先生は、新しい教か書をもうごちゅうもんなさいましたか。 → \_\_\_\_\_\_\_\_\_\_\_ かどうかぞんじませんが…
         
     
-    {{< resource_link 9da30a2e-7c5f-1c70-8f78-ef721d10a333 "Answers" >}}
+    {{% resource_link 9da30a2e-7c5f-1c70-8f78-ef721d10a333 "Answers" %}}
     
 2.  S1 か S2 か + 分かりません
     
@@ -160,7 +160,7 @@ Compare:
         さあ、 \_\_\_\_\_\_\_\_\_\_\_ か \_\_\_\_\_\_\_\_\_\_\_ かぜんぜん知りません。
         
     
-    {{< resource_link 530412ce-8433-6f2a-a766-ad7b6b9ef778 "Answers" >}}
+    {{% resource_link 530412ce-8433-6f2a-a766-ad7b6b9ef778 "Answers" %}}
     
 
 {{< anchor "3" >}}{{< /anchor >}}Miscellaneous Notes (MN)
@@ -218,6 +218,6 @@ The thumbnail photos below contain some of the words you know from this lesson. 
   
  
 
-\[Grammar 18A | {{< resource_link 6e99b027-4ba5-3a74-8571-f462c7b1a9b1 "Grammar 18B" >}}\]
+\[Grammar 18A | {{% resource_link 6e99b027-4ba5-3a74-8571-f462c7b1a9b1 "Grammar 18B" %}}\]
 
-\[{{< resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" >}}\]
+\[{{% resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" %}}\]

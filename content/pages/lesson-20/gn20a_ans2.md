@@ -14,4 +14,4 @@ uid: 1f1b42b7-a043-5abb-0480-d21630a709e8
 3.  にもつをあずけるのにお金が三百円かかりました。
 4.  成田へ行くのに JR せん (JR Line) が便利です。
 
-\[{{< resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#2" >}}\]
+\[{{% resource_link 06c1d8af-6228-699d-a7d5-f60bd4748802 "Back to Grammar 20A" "#2" %}}\]

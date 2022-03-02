@@ -152,6 +152,6 @@ uid: b5bf2c31-2feb-bb55-09bc-8161e2f3c51b
         I asked, &grave;Did you attend ~?'
         
 
-\[{{< resource_link d36a1695-a5a5-3415-09d8-80996017162e "Practice Quiz 18" >}} | Practice Quiz 18 Answers\]
+\[{{% resource_link d36a1695-a5a5-3415-09d8-80996017162e "Practice Quiz 18" %}} | Practice Quiz 18 Answers\]
 
-\[{{< resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" >}}\]
+\[{{% resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18 Home" %}}\]

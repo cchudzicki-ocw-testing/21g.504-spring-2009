@@ -14,4 +14,4 @@ uid: 1a770193-317c-d4ee-a3ae-1d06882a8216
 3.  れんらくした後で、気がつきました。
 4.  食事の後で、えいがを見に行きませんか。
 
-\[{{< resource_link 15dfb36e-f073-1e3a-30a2-7568de278087 "Back to Grammar 19B" "#2" >}}\]
+\[{{% resource_link 15dfb36e-f073-1e3a-30a2-7568de278087 "Back to Grammar 19B" "#2" %}}\]

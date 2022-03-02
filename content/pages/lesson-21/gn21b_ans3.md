@@ -25,4 +25,4 @@ uid: 96ecbb80-96f6-dfd1-00ef-cfd356722d07
     It is fine with separate rooms.
     
 
-\[{{< resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#2" >}}\]
+\[{{% resource_link f332dbd0-747e-510a-9734-5f115d7dcccb "Back to Grammar 21B" "#2" %}}\]

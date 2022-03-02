@@ -25,4 +25,4 @@ uid: 63c95c25-a46e-6f53-760a-af70f7756362
     I only know 200 kanji.
     
 
-\[{{< resource_link 8d91cd27-1c75-2031-6dcc-da546c822f5b "Back to Grammar 21A" "#2" >}}\]
+\[{{% resource_link 8d91cd27-1c75-2031-6dcc-da546c822f5b "Back to Grammar 21A" "#2" %}}\]

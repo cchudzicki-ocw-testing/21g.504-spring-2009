@@ -18,4 +18,4 @@ uid: 3c59f4ef-26f2-a03f-3ab1-e69e8cc0d0ce
 7.  おきゃくさまを駅まで送ってさし上げましょうか。
 8.  ぼくは弟のしゅくだいを手伝ってやりません。
 
-\[{{< resource_link 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0 "Back to Grammar 17A" "#2" >}}\]
+\[{{% resource_link 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0 "Back to Grammar 17A" "#2" %}}\]

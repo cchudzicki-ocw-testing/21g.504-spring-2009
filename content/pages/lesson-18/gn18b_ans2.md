@@ -17,4 +17,4 @@ uid: 5ab01a72-01f0-08f2-8b61-51ea9cf930eb
 4.  部長はその会ぎに出てくれるっておっしゃいました。
 5.  大田さんが何だいもコンピューターを直したか聞きました。
 
-\[{{< resource_link 6e8187e8-d5ed-322d-f510-3877e509a8c4 "Back to Grammar 18B" "#2" >}}\]
+\[{{% resource_link 6e8187e8-d5ed-322d-f510-3877e509a8c4 "Back to Grammar 18B" "#2" %}}\]
