@@ -10,6 +10,6 @@ These resources may be helpful for review and practice during the course.
 
 _Japanese: The Spoken Language_ [Audio Exercises](http://languagelab.it.ohio-state.edu/)
 
-[Introduction to Hiragana](/courses/res-21g-01-kana-spring-2010/pages/hiragana)
+[Introduction to Hiragana](/courses/res-21g-01-kana-spring-2010/pages/hiragana/_index)
 
-[Introduction to Katakana](/courses/res-21g-01-kana-spring-2010/pages/katakana)
+[Introduction to Katakana](/courses/res-21g-01-kana-spring-2010/pages/katakana/_index)
