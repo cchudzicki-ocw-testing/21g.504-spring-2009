@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: ce845a14-e942-541d-7d56-a411e07e0465
 title: Reading 22A
 uid: 15a28556-f823-966d-5892-5bacd3fbb8ff
+video_metadata:
+  youtube_id: null
 ---
 
 Click on the audio file after each reading to hear an audio recording of the pronunciation. All the recordings for this page are available to download here: ({{% resource_link 0f6c0629-cffb-9351-d3ab-c204217d8b1e "ZIP - 1.8MB" %}}) (The ZIP file contains: 9 .mp3 files.)

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Grammar 17A Section I Answers
 uid: ef161eb1-1bdd-468a-cca7-5633727ba716
+video_metadata:
+  youtube_id: null
 ---
 
 1.  私はマドレンに花を上げました。

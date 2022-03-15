@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19A Section I Answers
 uid: 4ff95dd2-c0c1-bb0d-9645-e36eb5216d61
+video_metadata:
+  youtube_id: null
 ---
 
 1.  \[田中さんがコーヒーを飲んだ\] きっさてんへ行きましょう。

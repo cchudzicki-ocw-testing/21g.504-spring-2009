@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Supplemental Reading 19
 uid: 6888bcbe-502f-3daf-3eb5-458792a6e416
+video_metadata:
+  youtube_id: null
 ---
 
 1.  西田さんからもらったオペラの切符をどこにしまったかはっきり覚えていない。  

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Various Japanese Dialects
 uid: 0bf7d86c-6174-2817-c73b-e1938bc52e8b
+video_metadata:
+  youtube_id: null
 ---
 
 [Map of Japanese Dialects](http://www.nihongoresources.com/language/dialects/kansaiben.html)

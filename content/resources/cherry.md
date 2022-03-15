@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: cherry
 uid: 87ede862-0e64-a3b0-4bf9-8ec9b54aaa81
+video_metadata:
+  youtube_id: null
 ---

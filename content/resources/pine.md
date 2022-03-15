@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: pine
 uid: 0bef4dfa-2c70-7268-b8f0-3cec500325a7
+video_metadata:
+  youtube_id: null
 ---

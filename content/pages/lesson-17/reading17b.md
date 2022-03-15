@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Reading 17B
 uid: 2cccb8b9-9929-ba65-70bc-989ffd48f47a
+video_metadata:
+  youtube_id: null
 ---
 
 Click on the audio file to hear an audio recording of the pronunciation.

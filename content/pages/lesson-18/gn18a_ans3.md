@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 title: Grammar 18A Section III Answers
 uid: 530412ce-8433-6f2a-a766-ad7b6b9ef778
+video_metadata:
+  youtube_id: null
 ---
 
 1.  さあ、使いやすいか使いにくいか、分かりません。  

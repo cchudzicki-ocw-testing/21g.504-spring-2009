@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: shinjukuStation1
 uid: 31b9c6fc-a8fd-8584-ed07-6782ce345724
+video_metadata:
+  youtube_id: null
 ---

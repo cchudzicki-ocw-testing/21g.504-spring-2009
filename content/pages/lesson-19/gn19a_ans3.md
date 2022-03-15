@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19A Section III Answers
 uid: b580a545-60d6-7fa9-8763-7f76623b3972
+video_metadata:
+  youtube_id: null
 ---
 
 1.  おきゃくが来る前にうちをかたずけました。

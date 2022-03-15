@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19B Section IV Answers
 uid: ab5a7b4b-61aa-36d5-beaa-49cfb22a89e5
+video_metadata:
+  youtube_id: null
 ---
 
 1.  おなかがすいている時(に)は、みんなおいしいです。

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21A
 uid: 8d91cd27-1c75-2031-6dcc-da546c822f5b
+video_metadata:
+  youtube_id: null
 ---
 
 [Becoming Verbals: 決まった物](#1)

@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: cardpics
 uid: 36da5d93-9a1e-bbcd-6ef2-f20688d20a62
+video_metadata:
+  youtube_id: null
 ---

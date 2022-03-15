@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Read21A_audio
 uid: b564fc62-f43b-7a08-7ea8-7c0e2db705c8
+video_metadata:
+  youtube_id: null
 ---

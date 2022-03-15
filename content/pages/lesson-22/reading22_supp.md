@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: ce845a14-e942-541d-7d56-a411e07e0465
 title: Supplemental Reading 22
 uid: 3725c2c8-b87d-981e-668f-4b4079835dcd
+video_metadata:
+  youtube_id: null
 ---
 
 1.  六階のオフィスにはもうすててしまってもかまわないプリンターやコンピュータが何台もおいてある。  

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 title: Grammar 18B Section I Answers
 uid: d40baf4a-a703-d315-2f7e-be7423d12a14
+video_metadata:
+  youtube_id: null
 ---
 
 1.  この近所にまるビルというビルはありませんか。

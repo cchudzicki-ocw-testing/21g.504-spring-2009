@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Kanji 20
 uid: dacef7f6-b68b-ee65-0c6a-736e6f03ed8d
+video_metadata:
+  youtube_id: null
 ---
 
 Each character entry below contains a ≤1 MB QuickTime movie of the character being painted with a brush, created by [Prof. Saeko Komori](http://www.mokosystem.com/komori/wwkanji2k/wwkanji2056.html) of [Chubu University](http://www.chubu.ac.jp/). Please see the [JP Net Kanji Project](http://web.mit.edu/jpnet/kanji-project/index.html) for more details.

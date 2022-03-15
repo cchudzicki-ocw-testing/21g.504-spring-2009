@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: corgi
 uid: 9e76fbaf-25d2-7100-588b-3c6b6a83131f
+video_metadata:
+  youtube_id: null
 ---

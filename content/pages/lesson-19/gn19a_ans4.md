@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19A Section IV Answers
 uid: d1b48d93-bcad-02e5-e56d-acd5ba55d533
+video_metadata:
+  youtube_id: null
 ---
 
 1.  これは、どういう意味か調べてみましょう。

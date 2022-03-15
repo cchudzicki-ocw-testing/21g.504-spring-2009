@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Kanji 19
 uid: 049b5734-bedf-01d7-a42e-1065136c2ff7
+video_metadata:
+  youtube_id: null
 ---
 
 Each character entry below contains a ≤1 MB QuickTime movie of the character being painted with a brush, created by [Prof. Saeko Komori](http://www.mokosystem.com/komori/wwkanji2k/wwkanji2056.html) of [Chubu University](http://www.chubu.ac.jp/). Please see the [JP Net Kanji Project](http://web.mit.edu/jpnet/kanji-project/index.html) for more details.

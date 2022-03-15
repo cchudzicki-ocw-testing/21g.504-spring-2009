@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21B Section V Answers
 uid: 0aed9532-d4b4-4276-a474-b98fdfabde93
+video_metadata:
+  youtube_id: null
 ---
 
 1.  何を調べても、分かりません。  

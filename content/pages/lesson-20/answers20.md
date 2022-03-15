@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Practice Quiz 20 Answers
 uid: 988fb1e0-654e-f228-42b2-7b2426754f5b
+video_metadata:
+  youtube_id: null
 ---
 
 1.  このにもつを \_\_\_\_\_\_\_\_\_\_ 。

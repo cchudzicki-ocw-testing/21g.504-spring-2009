@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Lesson18A9
 uid: 5c71be51-753e-ffc4-bec7-93636204defe
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Kanji19
 uid: 4409fbf1-3ccf-bc79-8399-855f2b9295cf
+video_metadata:
+  youtube_id: null
 ---

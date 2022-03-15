@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19B Section II Answers
 uid: 1a770193-317c-d4ee-a3ae-1d06882a8216
+video_metadata:
+  youtube_id: null
 ---
 
 1.  子どもをねかした後で、いつも本を読みます。

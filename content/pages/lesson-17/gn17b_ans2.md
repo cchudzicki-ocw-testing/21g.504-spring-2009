@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Grammar 17B Section II Answers
 uid: 82f38142-c034-1248-df9a-0652e1fcfab0
+video_metadata:
+  youtube_id: null
 ---
 
 1.  チャールズは、ジョージに 30 分待ってもらいました。

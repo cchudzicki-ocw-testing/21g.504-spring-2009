@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: tWindow4
 uid: 91275212-1bea-2f30-0556-777f0b608b85
+video_metadata:
+  youtube_id: null
 ---

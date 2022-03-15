@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 title: Reading 18B
 uid: 6e99b027-4ba5-3a74-8571-f462c7b1a9b1
+video_metadata:
+  youtube_id: null
 ---
 
 Click on the audio file after each reading to hear a recording of the pronunciation.

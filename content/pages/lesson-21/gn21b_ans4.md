@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21B Section IV Answers
 uid: 5c82d0f9-89ca-f367-11d7-1e8a6cd04935
+video_metadata:
+  youtube_id: null
 ---
 
 1.  その学会に出なくてもいいですか。  

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Practice Quiz 20
 uid: 855da04b-010a-c98e-f4c2-d1f6c7f335ba
+video_metadata:
+  youtube_id: null
 ---
 
 Choose possible combinations. There may be zero or more than one possible combination for each question. For possible combinations, provide an English equivalent for the entire sentence.

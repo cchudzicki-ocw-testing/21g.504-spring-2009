@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
+video_metadata:
+  youtube_id: null
 ---
 
 The following links, collected by topic, may be of interest to those studying Japanese language and culture or traveling in Japan.

@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: garden
 uid: b37f76b9-4ef6-52b2-919a-95a1cae0a2cb
+video_metadata:
+  youtube_id: null
 ---

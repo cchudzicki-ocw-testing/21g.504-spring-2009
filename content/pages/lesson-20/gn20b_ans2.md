@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Grammar 20B Section II Answers
 uid: 76ebf69c-4b98-59b9-53fe-5e3b6b2d7afe
+video_metadata:
+  youtube_id: null
 ---
 
 1.  いいえ、カリガンさんが全部一人でやったはずはありません。  

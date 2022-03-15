@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: river
 uid: f9783049-cf2e-c6ec-0557-d6145762f19c
+video_metadata:
+  youtube_id: null
 ---

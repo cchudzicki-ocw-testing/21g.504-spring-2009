@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Grammar 20A Section I Answers
 uid: 191cdf68-532a-6220-2cea-5c5fe2b4c508
+video_metadata:
+  youtube_id: null
 ---
 
 1.  かれはクッキーを作るのが上手です。

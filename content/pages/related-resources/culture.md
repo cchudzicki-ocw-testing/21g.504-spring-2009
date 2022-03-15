@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: cf5009c0-1123-3732-8ee8-3a9bdce2432c
 title: Exploring Japanese Culture
 uid: e3b0244d-c477-d2d2-1e29-5edcac703d9f
+video_metadata:
+  youtube_id: null
 ---
 
 [47 Prefectures of Japan](http://web.archive.org/web/20070622022404/http://www.admillion.com/j-guide/index-p.htm)

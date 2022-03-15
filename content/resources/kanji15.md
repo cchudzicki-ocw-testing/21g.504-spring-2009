@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: Kanji 15
 uid: 7e3abf1e-6ef2-7804-98d5-d5792cd2980f
+video_metadata:
+  youtube_id: null
 ---

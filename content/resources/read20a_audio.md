@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Read20A_audio
 uid: 72ce946a-eb0f-3fe0-7365-02fc82ff463a
+video_metadata:
+  youtube_id: null
 ---

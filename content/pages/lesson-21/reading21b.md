@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Reading 21B
 uid: e7ad8649-15ac-b478-cde5-661811c38420
+video_metadata:
+  youtube_id: null
 ---
 
 Click on the audio file after each reading to hear an audio recording of the pronunciation.

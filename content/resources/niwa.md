@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: niwa
 uid: b5dde481-737a-a663-4e56-e5b696efd0a4
+video_metadata:
+  youtube_id: null
 ---

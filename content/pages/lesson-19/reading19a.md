@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Reading 19A
 uid: 8ca5a323-383a-f162-33bd-af9b2b7683ac
+video_metadata:
+  youtube_id: null
 ---
 
 Click on the audio file after each reading to hear an audio recording of the pronunciation. All the recordings for this page are available to download here: ({{% resource_link d0f90a8e-dfed-2dfa-7b8a-1a517599f462 "ZIP - 2.2MB" %}}) (The ZIP file contains: 12 .mp3 files.)

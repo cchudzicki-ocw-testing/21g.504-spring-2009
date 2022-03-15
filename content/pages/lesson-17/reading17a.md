@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Reading 17A
 uid: 86812d1f-cae3-87cd-5b4a-303e028230f3
+video_metadata:
+  youtube_id: null
 ---
 
 Click on the audio file after each reading to hear an audio recording of the pronunciation. All recordings for this page are available to download here: ({{% resource_link b0e6fb4c-e970-0d75-1819-5aacc711cf0d "ZIP - 2.9MB" %}}) (The ZIP file contains: 15 .mp3 files.)

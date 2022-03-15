@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: Kanji28
 uid: 95552377-f74f-0802-a9a7-91ada3a676cc
+video_metadata:
+  youtube_id: null
 ---

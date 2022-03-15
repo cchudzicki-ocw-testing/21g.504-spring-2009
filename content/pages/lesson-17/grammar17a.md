@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Grammar 17A
 uid: 51a9fd9a-81b0-36d7-e327-1bdf3e7d99e0
+video_metadata:
+  youtube_id: null
 ---
 
 [Verbals of Giving: あげる、くれる](#1)

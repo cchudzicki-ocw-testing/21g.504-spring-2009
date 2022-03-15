@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Lesson21A2
 uid: e1da2fd9-f573-be6e-10b5-ab93b3d4ef9f
+video_metadata:
+  youtube_id: null
 ---

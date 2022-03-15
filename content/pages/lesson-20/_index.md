@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Lesson 20
 uid: 1658c715-de8b-1752-598d-a7d8228f0109
+video_metadata:
+  youtube_id: null
 ---
 
 Reading/Writing

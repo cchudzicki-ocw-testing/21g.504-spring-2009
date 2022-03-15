@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: hayakawa
 uid: 674f2585-2f72-f06f-fd90-50e0627e5ec6
+video_metadata:
+  youtube_id: null
 ---

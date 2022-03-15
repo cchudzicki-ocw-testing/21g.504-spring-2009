@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: jrEastEntrance
 uid: 4bee233e-0307-3239-1702-03ddb0a435e0
+video_metadata:
+  youtube_id: null
 ---

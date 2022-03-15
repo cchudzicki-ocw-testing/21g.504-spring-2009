@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Grammar 17B
 uid: ea51bf8a-d402-0e7e-95cf-955045d4ec5e
+video_metadata:
+  youtube_id: null
 ---
 
 [Verbal of Receiving もらう "receive; get"](#1)

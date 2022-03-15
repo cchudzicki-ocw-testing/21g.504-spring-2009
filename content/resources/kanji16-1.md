@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Kanji16
 uid: 53076289-6cbe-f82f-dd61-eca978b0df16
+video_metadata:
+  youtube_id: null
 ---

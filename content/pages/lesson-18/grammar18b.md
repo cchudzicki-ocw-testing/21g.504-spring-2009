@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 8b541784-586f-4e65-3cee-4ca3df5330c8
 title: Grammar 18B
 uid: 6e8187e8-d5ed-322d-f510-3877e509a8c4
+video_metadata:
+  youtube_id: null
 ---
 
 [X という Y: "Y called X; Y named X"](#1)

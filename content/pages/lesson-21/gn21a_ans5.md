@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21A Section V Answers
 uid: 207dce8c-a98f-ff47-df46-5768bf876997
+video_metadata:
+  youtube_id: null
 ---
 
 1.  部長がいい人だということはたしかだ。

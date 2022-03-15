@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21B Section III Answers
 uid: 96ecbb80-96f6-dfd1-00ef-cfd356722d07
+video_metadata:
+  youtube_id: null
 ---
 
 1.  ここでたばこをすってもいいですか。  

@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: Kanji33
 uid: 54faff4a-aba7-1b7c-9b68-9e55e2a3c4e0
+video_metadata:
+  youtube_id: null
 ---

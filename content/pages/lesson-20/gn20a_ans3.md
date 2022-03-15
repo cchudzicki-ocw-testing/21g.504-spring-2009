@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 1658c715-de8b-1752-598d-a7d8228f0109
 title: Grammar 20A Section III Answers
 uid: b7c92702-3797-661c-0dac-299b6fe6b2c0
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Q: 大学まで歩くのとバスにのるのと、どちらが速いですか。  

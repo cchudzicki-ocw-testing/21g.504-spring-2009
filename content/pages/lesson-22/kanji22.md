@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: ce845a14-e942-541d-7d56-a411e07e0465
 title: Kanji 22
 uid: b64f24c3-f826-20e5-2ec6-f728cd41463f
+video_metadata:
+  youtube_id: null
 ---
 
 Each character entry below contains a ≤1 MB QuickTime movie of the character being painted with a brush, created by [Prof. Saeko Komori](http://www.mokosystem.com/komori/wwkanji2k/wwkanji2056.html) of [Chubu University](http://www.chubu.ac.jp/). Please see the [JP Net Kanji Project](http://web.mit.edu/jpnet/kanji-project/index.html) for more details.

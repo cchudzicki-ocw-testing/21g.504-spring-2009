@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19B Section III Answers
 uid: 3fec0414-a8fc-4484-a8f1-4f0843b65e32
+video_metadata:
+  youtube_id: null
 ---
 
 1.  たばこをすう時(に)は、外へ出て下さい。

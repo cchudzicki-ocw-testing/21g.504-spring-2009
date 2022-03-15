@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 20539a8a-0070-a3dc-0491-23486d993904
 title: Grammar 17A Section III Answers
 uid: 7204bd1b-1cfc-88b5-0f97-dfae5174abb9
+video_metadata:
+  youtube_id: null
 ---
 
 1.  それ、見せて{ください/くれます(か)/くれません(か)}。

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21A Section III Answers
 uid: 8f69e19d-50f7-1366-9bad-d51516fa113d
+video_metadata:
+  youtube_id: null
 ---
 
 1.  あの道はこの時間にものすごくこむそうです。  

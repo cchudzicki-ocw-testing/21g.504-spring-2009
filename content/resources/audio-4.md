@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: audio
 uid: 57210537-b940-1ab6-8381-845931c70ab8
+video_metadata:
+  youtube_id: null
 ---

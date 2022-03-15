@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 86e1cf31-96ab-bfff-fa96-0974bc7eaab4
+video_metadata:
+  youtube_id: null
 ---
 
 {{< anchor "1" >}}{{< /anchor >}}Lesson Quiz 1 - {{% resource_link 20539a8a-0070-a3dc-0491-23486d993904 "Lesson 17" %}}, {{% resource_link 8b541784-586f-4e65-3cee-4ca3df5330c8 "Lesson 18" %}}

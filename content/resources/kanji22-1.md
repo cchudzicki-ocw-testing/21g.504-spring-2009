@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: Kanji22
 uid: 99a00ae4-432e-b5e8-74c0-bed4639d6cea
+video_metadata:
+  youtube_id: null
 ---

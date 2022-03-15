@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Supplemental Reading 21
 uid: 85d9ab18-e131-cfc0-d019-e9a4353afeb4
+video_metadata:
+  youtube_id: null
 ---
 
 1.  このスープ、赤ちゃんにはちょっと熱いかもしれない。ちょっと冷めるまで待ってからあげましよう。  

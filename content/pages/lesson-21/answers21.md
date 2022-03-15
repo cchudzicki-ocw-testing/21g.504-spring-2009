@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Practice Quiz 21 Answers
 uid: 177ddadb-c1a9-edfa-bf29-febc52ac067e
+video_metadata:
+  youtube_id: null
 ---
 
 1.  \_\_\_\_\_\_\_\_\_\_ いいよ。

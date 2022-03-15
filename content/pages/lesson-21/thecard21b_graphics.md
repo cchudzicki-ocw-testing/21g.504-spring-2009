@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Card 21B Graphics
 uid: 04a0ca2e-5e7d-d9b4-4080-4322f2f97ce5
+video_metadata:
+  youtube_id: null
 ---
 
 竹田さんへのカード

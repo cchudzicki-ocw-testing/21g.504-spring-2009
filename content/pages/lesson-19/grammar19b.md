@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 4c4bfa40-1b33-5dbf-1f49-d700b4b86b25
 title: Grammar 19B
 uid: 15dfb36e-f073-1e3a-30a2-7568de278087
+video_metadata:
+  youtube_id: null
 ---
 
 [Sentence Modifiers with Nominals](#1)

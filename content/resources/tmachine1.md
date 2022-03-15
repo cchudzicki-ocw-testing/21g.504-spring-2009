@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: tMachine1
 uid: 8291c438-e4b3-9e36-ab0c-bfdfb3999a6e
+video_metadata:
+  youtube_id: null
 ---

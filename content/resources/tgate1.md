@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: tGate1
 uid: 2e136b83-936a-4c14-0f0a-7c59ac8e0ccb
+video_metadata:
+  youtube_id: null
 ---

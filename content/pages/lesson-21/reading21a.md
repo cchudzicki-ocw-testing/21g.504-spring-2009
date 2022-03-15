@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Reading 21A
 uid: bcb07d46-a529-3d70-c0fd-d3731f01f2c2
+video_metadata:
+  youtube_id: null
 ---
 
 Click on the audio file after each reading to hear an audio recording of the pronunciation. All the recordings for this page are available to download here: ({{% resource_link b564fc62-f43b-7a08-7ea8-7c0e2db705c8 "ZIP - 2.2MB" %}}) (The ZIP file contains: 11 .mp3 files.)

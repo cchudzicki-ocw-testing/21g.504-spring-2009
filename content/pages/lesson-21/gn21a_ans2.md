@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: bffa1146-720a-039c-9aec-636a7a7ab4cd
 title: Grammar 21A Section II Answers
 uid: 63c95c25-a46e-6f53-760a-af70f7756362
+video_metadata:
+  youtube_id: null
 ---
 
 1.  それは、日本人しか分かりません。  

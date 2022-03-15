@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: Kanji35
 uid: fcf23d0d-769b-3c21-5cab-115ab99d4ec3
+video_metadata:
+  youtube_id: null
 ---
