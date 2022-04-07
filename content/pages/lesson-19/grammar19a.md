@@ -189,13 +189,13 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[{{< resource 31b9c6fc-a8fd-8584-ed07-6782ce345724 >}}]({{< baseurl >}}/resources/shinjukustation1)
+{{< resource uuid="31b9c6fc-a8fd-8584-ed07-6782ce345724" href_uuid="31b9c6fc-a8fd-8584-ed07-6782ce345724" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[{{< resource 8291c438-e4b3-9e36-ab0c-bfdfb3999a6e >}}]({{< baseurl >}}/resources/tmachine1)
+{{< resource uuid="8291c438-e4b3-9e36-ab0c-bfdfb3999a6e" href_uuid="8291c438-e4b3-9e36-ab0c-bfdfb3999a6e" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[{{< resource 91275212-1bea-2f30-0556-777f0b608b85 >}}]({{< baseurl >}}/resources/twindow4)
+{{< resource uuid="91275212-1bea-2f30-0556-777f0b608b85" href_uuid="91275212-1bea-2f30-0556-777f0b608b85" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

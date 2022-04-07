@@ -160,10 +160,10 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[{{< resource 2e136b83-936a-4c14-0f0a-7c59ac8e0ccb >}}]({{< baseurl >}}/resources/tgate1)
+{{< resource uuid="2e136b83-936a-4c14-0f0a-7c59ac8e0ccb" href_uuid="2e136b83-936a-4c14-0f0a-7c59ac8e0ccb" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[{{< resource 4bee233e-0307-3239-1702-03ddb0a435e0 >}}]({{< baseurl >}}/resources/jreastentrance)
+{{< resource uuid="4bee233e-0307-3239-1702-03ddb0a435e0" href_uuid="4bee233e-0307-3239-1702-03ddb0a435e0" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

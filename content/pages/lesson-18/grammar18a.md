@@ -199,7 +199,7 @@ The thumbnail photos below contain some of the words you know from this lesson. 
 {{< resource 87ede862-0e64-a3b0-4bf9-8ec9b54aaa81 >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[{{< resource 0bef4dfa-2c70-7268-b8f0-3cec500325a7 >}}]({{< baseurl >}}/resources/pine)
+{{< resource uuid="0bef4dfa-2c70-7268-b8f0-3cec500325a7" href_uuid="0bef4dfa-2c70-7268-b8f0-3cec500325a7" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< resource b37f76b9-4ef6-52b2-919a-95a1cae0a2cb >}}
