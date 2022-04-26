@@ -26,7 +26,7 @@ Registration Day - no class
 
 First day of class
 
-\- Orientation    
+\- Orientation     
 \- {{% resource_link "20539a8a-0070-a3dc-0491-23486d993904" "Review" %}}
 
 {{< tdclose >}}{{< tdopen >}}
@@ -101,7 +101,7 @@ Lesson 18B Application Exercises
 
 {{% resource_link "b5d9aa6e-99d3-8b43-d2cb-6f06bab6b55e" "Reading 18A (15-17)" %}}
 
-Lesson Quiz 1 - {{% resource_link "20539a8a-0070-a3dc-0491-23486d993904" "Lesson 17" %}}, {{% resource_link "8b541784-586f-4e65-3cee-4ca3df5330c8" "Lesson 18" %}} (\[details\]({{< baseurl >}}//exams#1))
+Lesson Quiz 1 - {{% resource_link "20539a8a-0070-a3dc-0491-23486d993904" "Lesson 17" %}}, {{% resource_link "8b541784-586f-4e65-3cee-4ca3df5330c8" "Lesson 18" %}} ({{% resource_link "86e1cf31-96ab-bfff-fa96-0974bc7eaab4" "details" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
