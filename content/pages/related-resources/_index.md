@@ -12,7 +12,7 @@ The following links, collected by topic, may be of interest to those studying 
 
 {{% resource_link "53ccdcaa-62c4-5b5a-389e-0d8c9d607147" "Study Abroad" %}}
 
-Language
+{{% resource_link "4ac4c32e-c02c-49a9-8147-b306b1c43332" "Language" %}}
 
 {{% resource_link "0bf7d86c-6174-2817-c73b-e1938bc52e8b" "Dialects" %}}
 
