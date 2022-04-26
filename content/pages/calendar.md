@@ -26,7 +26,7 @@ Registration Day - no class
 
 First day of class
 
-\- Orientation   
+\- Orientation    
 \- {{% resource_link "20539a8a-0070-a3dc-0491-23486d993904" "Review" %}}
 
 {{< tdclose >}}{{< tdopen >}}
@@ -175,7 +175,7 @@ Lesson 19B Application Exercises
 
 {{% resource_link "8ca5a323-383a-f162-33bd-af9b2b7683ac" "Reading 19A (12)" %}}, {{% resource_link "dbc00f80-2d60-366e-9271-9502c15a40dd" "Reading 19B" %}}
 
-Lesson Quiz 2 - {{% resource_link "4c4bfa40-1b33-5dbf-1f49-d700b4b86b25" "Lesson 19" %}} (\[details\]({{< baseurl >}}//exams#2))
+Lesson Quiz 2 - {{% resource_link "4c4bfa40-1b33-5dbf-1f49-d700b4b86b25" "Lesson 19" %}} ({{% resource_link "86e1cf31-96ab-bfff-fa96-0974bc7eaab4" "details" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -370,7 +370,7 @@ Review sheet
 をやって、持ってきて下さい!
 
 {{< tdclose >}}{{< tdopen >}}
-Hour Exam - Lesson 22A まで (\[details\]({{< baseurl >}}//exams#4))
+Hour Exam - Lesson 22A まで ({{% resource_link "86e1cf31-96ab-bfff-fa96-0974bc7eaab4" "details" %}})
 {{< tdclose >}}{{< tdopen >}}
 
 Lesson 22B **FACT**
