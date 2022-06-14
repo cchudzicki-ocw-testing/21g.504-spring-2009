@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Audio recording demonstrating Japanese pronunciation.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-504-japanese-iv-spring-2009/8296feb6f37cb6c0215254fbda257271_Lesson22A6.mp3
+file: /courses/21g-504-japanese-iv-spring-2009/8296feb6f37cb6c0215254fbda257271_Lesson22A6.mp3
 file_type: audio/mpeg
 learning_resource_types: []
 ocw_type: OCWFile
@@ -14,3 +14,4 @@ uid: 8296feb6-f37c-b6c0-2152-54fbda257271
 video_metadata:
   youtube_id: null
 ---
+Audio recording demonstrating Japanese pronunciation.

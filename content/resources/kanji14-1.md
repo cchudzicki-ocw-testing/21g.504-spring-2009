@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of a kanji character accompanying a lesson on Japanese.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-504-japanese-iv-spring-2009/e509fc7f780bb965ddef734f11e504b1_Kanji14.gif
+file: /courses/21g-504-japanese-iv-spring-2009/e509fc7f780bb965ddef734f11e504b1_Kanji14.gif
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -18,3 +18,4 @@ uid: e509fc7f-780b-b965-ddef-734f11e504b1
 video_metadata:
   youtube_id: null
 ---
+Photograph of a kanji character accompanying a lesson on Japanese.

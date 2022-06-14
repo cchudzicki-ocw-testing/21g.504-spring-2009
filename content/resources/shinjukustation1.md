@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of a railway station accompanying a lesson on Japanese vocabulary.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21g-504-japanese-iv-spring-2009/31b9c6fca8fd8584ed076782ce345724_shinjukuStation1.jpg
+file: /courses/21g-504-japanese-iv-spring-2009/31b9c6fca8fd8584ed076782ce345724_shinjukuStation1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -18,3 +18,4 @@ uid: 31b9c6fc-a8fd-8584-ed07-6782ce345724
 video_metadata:
   youtube_id: null
 ---
+Photograph of a railway station accompanying a lesson on Japanese vocabulary.
