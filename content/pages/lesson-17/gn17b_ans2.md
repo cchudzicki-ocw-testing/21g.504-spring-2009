@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "Answers to Japanese language problems on Vte + \u3082\u3089\u3046 \"\
+  have someone do something; ask s.o. to do s.t.\""
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 17

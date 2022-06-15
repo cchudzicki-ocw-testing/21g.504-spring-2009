@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Answers to Japanese language problems on Additional Request Structural
+  Patterns (SP).
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 17

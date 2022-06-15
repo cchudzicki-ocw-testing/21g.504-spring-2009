@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Grammar section of a lesson on Japanese language. Includes: Polite Requests;
+  Embedded Alternative Questions; Miscellaneous Notes (MN); and a Photographic Vocabulary
+  Aid.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 18

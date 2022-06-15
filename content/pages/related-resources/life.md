@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to useful information for life in Japan.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources

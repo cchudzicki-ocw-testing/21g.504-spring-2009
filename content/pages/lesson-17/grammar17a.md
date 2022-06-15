@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "Grammar section of a lesson on Japanese language. Includes: Verbals\
+  \ of Giving: \u3042\u3052\u308B\u3001\u304F\u308C\u308B; Vte + \u3042\u3052\u308B\
+  /\u304F\u308C\u308B \"do s.t. for s.o.; do s.o. a favor by doing s.t.\"; Additional\
+  \ Request Structural Patterns (SP); and Miscellaneous Notes (MN)."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 17

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Answers to practice questions from a lesson on Japanese language.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 18

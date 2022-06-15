@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Answers to Japanese language problems on Embedded WH- Questions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 18

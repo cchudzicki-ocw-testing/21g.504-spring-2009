@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  required texts, objectives and procedures, evaluation, online supplementary materials
+  and resources, and audio/visual materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

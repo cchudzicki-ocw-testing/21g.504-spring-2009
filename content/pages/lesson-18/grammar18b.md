@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "Grammar section of a lesson on Japanese language. Includes: X \u3068\
+  \u3044\u3046 Y: \"Y called X; Y named X\"; Quotation \u3068\u8A00\u3046, Quotation\
+  \ \u3063\u3066\u8A00\u3046; Embedded WH- Questions."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 18

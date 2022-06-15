@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "Answers to Japanese language problems on Verbals of Giving: \u3042\u3052\
+  \u308B\u3001\u304F\u308C\u308B."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 17

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: "Grammar section of a lesson on Japanese language. Includes: Verbal of\
+  \ Receiving \u3082\u3089\u3046 \"receive; get\"; Vte + \u3082\u3089\u3046 \"have\
+  \ someone do something; ask s.o. to do s.t.\"; Miscellaneous Notes (MN); and a Photographic\
+  \ Vocabulary Aid."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 17

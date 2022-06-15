@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to Japanese recipes and food pages.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources

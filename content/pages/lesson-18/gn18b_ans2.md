@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "Answers to Japanese language problems on Quotation \u3068\u8A00\u3046\
+  , Quotation \u3063\u3066\u8A00\u3046."
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 18

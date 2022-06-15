@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "Answers to Japanese language problems on X \u3068\u3044\u3046 Y: \"\
+  Y called X; Y named X.\""
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 18

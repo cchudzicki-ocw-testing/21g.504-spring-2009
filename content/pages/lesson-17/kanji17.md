@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Information on a selection of Kanji characters for a Japanese language
+  lesson.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 17

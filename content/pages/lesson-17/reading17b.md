@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Japanese language reading assignment.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lesson 17
