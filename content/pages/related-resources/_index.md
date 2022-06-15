@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links, collected by topics, that may be of interest
+  to those studying Japanese language and culture or traveling in Japan.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
